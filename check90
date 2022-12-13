@@ -130,6 +130,9 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 
 ############################################## FWC2022 ######################################
 
+#EXTINF:-1 tvg-id="" tvg-name="Astro FWC 1" tvg-logo="https://bgl-tv.my.id/logo/wcc2022.png" group-title="FIFA WORLD CUP 2022", FWC INDOSIAR
+https://hls3.yuanzhi.org.cn/live/L11860320.m3u8?txSecret%3D3f223f6279f6849ca7c3564fdc65cf68&txTime=6399D230&_s=stream&m=1
+
 #EXTINF:-1 tvg-id="" tvg-name="Astro FWC 1" tvg-logo="https://bgl-tv.my.id/logo/wcc2022.png" group-title="FIFA WORLD CUP 2022", FWC ASTRO
 http://w.nasvpn.xyz:8080/live/saya/saya/13909.m3u8
 

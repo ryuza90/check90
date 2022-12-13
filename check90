@@ -2,7 +2,6 @@
 #EXTM3U x-tvg-url="https://macan.tv/xmltv.php?username=epg&password=epg" url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U x-tvg-url="https://stvlgo2.000webhostapp.com/coba/epg.xml"
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Request", MOTOGP TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1876721856_b744100_sleng.m3u8
 
@@ -29,6 +28,7 @@ http://iptvid.my.id/hmm/afc.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Request", History
 http://iptvid.my.id/hmm/history.m3u8?by=iptv_id
+
 
 
 ============ INDONESIA HD ==========
@@ -131,13 +131,10 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 ############################################## FWC2022 ######################################
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro FWC 1" tvg-logo="https://bgl-tv.my.id/logo/wcc2022.png" group-title="FIFA WORLD CUP 2022", FWC ASTRO
-http://tv.idsignage.tech/wc22.m3u8
+http://w.nasvpn.xyz:8080/live/saya/saya/13909.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro FWC 1" tvg-logo="https://bgl-tv.my.id/logo/wcc2022.png" group-title="FIFA WORLD CUP 2022", FWC 480
-https://d3awnlgqz0szay.cloudfront.net:443/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_10.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Astro FWC 1" tvg-logo="https://bgl-tv.my.id/logo/wcc2022.png" group-title="FIFA WORLD CUP 2022", FWC 720
-https://d3awnlgqz0szay.cloudfront.net:443/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro FWC 1" tvg-logo="https://bgl-tv.my.id/logo/wcc2022.png" group-title="FIFA WORLD CUP 2022", FWC KOREA
+http://w.nasvpn.xyz:8080/live/saya/saya/16567.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro FWC 1" tvg-logo="https://bgl-tv.my.id/logo/wcc2022.png" group-title="FIFA WORLD CUP 2022",CHNL 10
 https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1669173931-0-0-236dea16e5079f72c1b2d51d6af82c63

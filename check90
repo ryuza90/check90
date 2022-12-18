@@ -179,6 +179,8 @@ https://k.ksa.my.id/ksa.m3u8?a=11c29c48146372ad4d14&b=204991a99793a98926d2&c=8f5
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",SCTV
 https://k.ksa.my.id/ksa.m3u8?a=c38a7b272f9c6d07b2c3&b=769e18d2eae69a34056d&c=606f050f137c26cc67bb
 
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",SCTV 2
+https://subaktegal.000webhostapp.com/Panjikelodkauh_useename=SCTV.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",NET TV
 https://k.ksa.my.id/ksa.m3u8?a=5df81fef629ea749jklm&b=b162fba1d223a5b01234&c=0c906a498274137f5678

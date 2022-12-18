@@ -133,6 +133,12 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 #EXTINF:-1 tvg-id="" tvg-name="Astro FWC 1" tvg-logo="https://bgl-tv.my.id/logo/wcc2022.png" group-title="FIFA WORLD CUP 2022", FWC 
 http://w.nasvpn.xyz:8080/live/saya/saya/16567.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Astro FWC 1" tvg-logo="https://bgl-tv.my.id/logo/wcc2022.png" group-title="FIFA WORLD CUP 2022", FWC  2
+http://50.7.220.74:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro FWC 1" tvg-logo="https://bgl-tv.my.id/logo/wcc2022.png" group-title="FIFA WORLD CUP 2022", FWC  3
+http://50.7.220.74:8278/bbc1_antik/playlist.m3u8?tid=MF9F5104188751041887&ct=19317&tsum=d9d161255fab7747b92a36b17e6fcf9a
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://qusay.me/qatar/img/qatar1.jpg" group-title="FIFA WORLD CUP 2022",beINSPORTS MAX 1 HD_ott
 http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216922
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://qusay.me/qatar/img/qatar2.jpg" group-title="FIFA WORLD CUP 2022",beINSPORTS MAX 2 HD_ott
@@ -175,6 +181,12 @@ http://id.bgltv2.my.id:25461/HanyaTes/FreeeOneDay/7
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",Indosiar
 https://k.ksa.my.id/ksa.m3u8?a=11c29c48146372ad4d14&b=204991a99793a98926d2&c=8f5ffddd6e9165aa1117
+
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",Indosiar 2
+https://raw.githubusercontent.com/shabrina0401/bernabeu/main/BRI/bri1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",Indosiar 3
+https://raw.githubusercontent.com/shabrina0401/bernabeu/main/BRI/bri2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",SCTV
 https://k.ksa.my.id/ksa.m3u8?a=c38a7b272f9c6d07b2c3&b=769e18d2eae69a34056d&c=606f050f137c26cc67bb

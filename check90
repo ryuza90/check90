@@ -128,72 +128,34 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 
 
-############################################## FWC2022 ######################################
-
-#EXTINF:-1 tvg-id="" tvg-name="Astro FWC 1" tvg-logo="https://bgl-tv.my.id/logo/wcc2022.png" group-title="FIFA WORLD CUP 2022", FWC 
-http://w.nasvpn.xyz:8080/live/saya/saya/16567.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Astro FWC 1" tvg-logo="https://bgl-tv.my.id/logo/wcc2022.png" group-title="FIFA WORLD CUP 2022", FWC  2
-http://50.7.220.74:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
-
-#EXTINF:-1 tvg-id="" tvg-name="Astro FWC 1" tvg-logo="https://bgl-tv.my.id/logo/wcc2022.png" group-title="FIFA WORLD CUP 2022", FWC  3
-http://50.7.220.74:8278/bbc1_antik/playlist.m3u8?tid=MF9F5104188751041887&ct=19317&tsum=d9d161255fab7747b92a36b17e6fcf9a
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://qusay.me/qatar/img/qatar1.jpg" group-title="FIFA WORLD CUP 2022",beINSPORTS MAX 1 HD_ott
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216922
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://qusay.me/qatar/img/qatar2.jpg" group-title="FIFA WORLD CUP 2022",beINSPORTS MAX 2 HD_ott
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216923
-
-#EXTINF:-1 tvg-id="" tvg-name="Astro FWC 1" tvg-logo="https://bgl-tv.my.id/logo/wcc2022.png" group-title="FIFA WORLD CUP 2022",Bein Max 1 HD
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43852
-#EXTINF:-1 tvg-id="" tvg-name="Astro FWC 1" tvg-logo="https://bgl-tv.my.id/logo/wcc2022.png" group-title="FIFA WORLD CUP 2022",Bein Max 2 HD
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43853
-#EXTINF:-1 tvg-id="" tvg-name="Astro FWC 1" tvg-logo="https://bgl-tv.my.id/logo/wcc2022.png" group-title="FIFA WORLD CUP 2022",Bein Max 3 HD
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43854
-#EXTINF:-1 tvg-id="" tvg-name="Astro FWC 1" tvg-logo="https://bgl-tv.my.id/logo/wcc2022.png" group-title="FIFA WORLD CUP 2022",Bein Max 4 HD
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43855
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Astro FWC 1" tvg-logo="https://bgl-tv.my.id/logo/wcc2022.png" group-title="FIFA WORLD CUP 2022",BeIN Sports MaX 1 SD
-http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/19776.ts
-#EXTINF:-1 tvg-id="" tvg-name="Astro FWC 1" tvg-logo="https://bgl-tv.my.id/logo/wcc2022.png" group-title="FIFA WORLD CUP 2022",BeIN Sports MaX 2 SD
-http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/19777.ts
-#EXTINF:-1 tvg-id="" tvg-name="Astro FWC 1" tvg-logo="https://bgl-tv.my.id/logo/wcc2022.png" group-title="FIFA WORLD CUP 2022",Bein Sports MAX 3 SD
-http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/19778.ts
-#EXTINF:-1 tvg-id="" tvg-name="Astro FWC 1" tvg-logo="https://bgl-tv.my.id/logo/wcc2022.png" group-title="FIFA WORLD CUP 2022",Bein Sports Max 4 SD
-http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/19779.ts
-#EXTINF:-1 tvg-id="" tvg-name="Astro FWC 1" tvg-logo="https://bgl-tv.my.id/logo/wcc2022.png" group-title="FIFA WORLD CUP 2022",Bein Sports MAX 5 SD
-http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/19780.ts
-#EXTINF:-1 tvg-id="" tvg-name="Astro FWC 1" tvg-logo="https://bgl-tv.my.id/logo/wcc2022.png" group-title="FIFA WORLD CUP 2022",Bein Sports MAX 6 SD
-http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/19781.ts
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Astro FWC 1" tvg-logo="https://bgl-tv.my.id/logo/wcc2022.png" group-title="FIFA WORLD CUP 2022",Astro FWC 1
-http://id.bgltv2.my.id:25461/HanyaTes/FreeeOneDay/4
-#EXTINF:-1 tvg-id="" tvg-name="Astro FWC 2" tvg-logo="https://bgl-tv.my.id/logo/wcc2022.png" group-title="FIFA WORLD CUP 2022",Astro FWC 2
-http://id.bgltv2.my.id:25461/HanyaTes/FreeeOneDay/5
-#EXTINF:-1 tvg-id="" tvg-name="World Cup 1" tvg-logo="https://bgl-tv.my.id/logo/wcc2022.png" group-title="FIFA WORLD CUP 2022",World Cup 1
-http://id.bgltv2.my.id:25461/HanyaTes/FreeeOneDay/6
-#EXTINF:-1 tvg-id="" tvg-name="World Cup 2" tvg-logo="https://bgl-tv.my.id/logo/wcc2022.png" group-title="FIFA WORLD CUP 2022",World Cup 2
-http://id.bgltv2.my.id:25461/HanyaTes/FreeeOneDay/7
-
 ############################################## BGL #########################################
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",Indosiar
-https://k.ksa.my.id/ksa.m3u8?a=11c29c48146372ad4d14&b=204991a99793a98926d2&c=8f5ffddd6e9165aa1117
+https://tvkitaproject.my.id/vidio/indosiar.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",Indosiar 2
+https://devds.site/api/v.m3u8?ch=indosiar
+
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",Indosiar 3
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",SCTV
-https://k.ksa.my.id/ksa.m3u8?a=c38a7b272f9c6d07b2c3&b=769e18d2eae69a34056d&c=606f050f137c26cc67bb
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",SCTV 
+https://tvkitaproject.my.id/vidio/sctv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",SCTV 2
-https://subaktegal.000webhostapp.com/Panjikelodkauh_useename=SCTV.m3u8
+https://devds.site/api/v.m3u8?ch=sctv
+
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",SCTV 3
+http://mpwtv.my.id/vidioye/204-sctv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",SCTV 3
+https://devds.site/api/v.m3u8?ch=sctv
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",NET TV
 https://k.ksa.my.id/ksa.m3u8?a=5df81fef629ea749jklm&b=b162fba1d223a5b01234&c=0c906a498274137f5678
 
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",Moji
+https://tvkitaproject.my.id/vidio/moji.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL", RCTI
 https://vcdn2.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
@@ -268,442 +230,24 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 
 
 
-########################################### SINAR$ #################################################
-
-
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="INDOSIAR" tvg-logo="http://103.150.197.50:25461/images/7df6bbbecfb1e436fbbe52f8513aac7c.png" group-title="SINAR",INDOSIAR
-http://103.150.197.50:25461/hiduplagi/exwarungtv/1
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar (b)" tvg-logo="http://103.150.197.50:25461/images/68538cd4f5dd8dac3262f3a95e3ce0e5.png" group-title="SINAR",Indosiar (b)
-http://103.150.197.50:25461/hiduplagi/exwarungtv/144
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="http://103.150.197.50:25461/images/ae413076479a995ffcdbe1bf4c879975.png" group-title="SINAR",SCTV
-http://103.150.197.50:25461/hiduplagi/exwarungtv/2
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="TRANS 7" tvg-logo="http://103.150.197.50:25461/images/90a262a9b12ba68a289c062471b25aa8.png" group-title="SINAR",TRANS 7
-http://103.150.197.50:25461/hiduplagi/exwarungtv/3
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="TRANS TV" tvg-logo="http://103.150.197.50:25461/images/bd4d5b646a97daf662b860a9966495a6.png" group-title="SINAR",TRANS TV
-http://103.150.197.50:25461/hiduplagi/exwarungtv/4
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="http://103.150.197.50:25461/images/72cbdc4cc86b3096b1d15cb99647095a.png" group-title="SINAR",RCTI
-http://103.150.197.50:25461/hiduplagi/exwarungtv/5
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV" tvg-logo="http://103.150.197.50:25461/images/7e08f27db9bd93e9b50b1de7df9d8981.png" group-title="SINAR",MNC TV
-http://103.150.197.50:25461/hiduplagi/exwarungtv/6
-#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="http://103.150.197.50:25461/images/08c1fe6acec1db1aeebfc7271f123fbf.png" group-title="SINAR",GTV
-http://103.150.197.50:25461/hiduplagi/exwarungtv/7
-#EXTINF:-1 tvg-id="INews.id" tvg-name="iNEWS" tvg-logo="http://103.150.197.50:25461/images/87ade457c3f0acf23be363f6c43e1499.png" group-title="SINAR",iNEWS
-http://103.150.197.50:25461/hiduplagi/exwarungtv/8
-#EXTINF:-1 tvg-id="tvOne.id" tvg-name="TV ONE" tvg-logo="http://103.150.197.50:25461/images/a611b52a5664ac85bbb85cd8b5c8d882.png" group-title="SINAR",TV ONE
-http://103.150.197.50:25461/hiduplagi/exwarungtv/9
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="http://103.150.197.50:25461/images/cd0c0e1bb4992da1b91208f4fcf56a41.png" group-title="SINAR",ANTV
-http://103.150.197.50:25461/hiduplagi/exwarungtv/10
-#EXTINF:-1 tvg-id="NET.id" tvg-name="NET TV" tvg-logo="http://103.150.197.50:25461/images/7a97e60cdc46b6fb8b212b4fd72bcbfa.png" group-title="SINAR",NET TV
-http://103.150.197.50:25461/hiduplagi/exwarungtv/11
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="METRO TV" tvg-logo="http://103.150.197.50:25461/images/9a892fe3c69fed1b4b21437c0e9205d5.png" group-title="SINAR",METRO TV
-http://103.150.197.50:25461/hiduplagi/exwarungtv/12
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="KOMPAS TV" tvg-logo="http://103.150.197.50:25461/images/3c75556d944d066c0da880afc7ccd46a.png" group-title="SINAR",KOMPAS TV
-http://103.150.197.50:25461/hiduplagi/exwarungtv/13
-#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-name="RTV" tvg-logo="http://103.150.197.50:25461/images/6815c9cc689151914b890cc2c8a952c3.png" group-title="SINAR",RTV
-http://103.150.197.50:25461/hiduplagi/exwarungtv/14
-#EXTINF:-1 tvg-id="MNCNews.id" tvg-name="MNC NEWS" tvg-logo="http://103.150.197.50:25461/images/c44b0f8b0e0c2aba62b436d65c5024a3.png" group-title="SINAR",MNC NEWS
-http://103.150.197.50:25461/hiduplagi/exwarungtv/15
-#EXTINF:-1 tvg-id="" tvg-name="CNN INDONESIA" tvg-logo="http://103.150.197.50:25461/images/74b9c751c3178ffce47cc531ec0af852.png" group-title="SINAR",CNN INDONESIA
-http://103.150.197.50:25461/hiduplagi/exwarungtv/16
-#EXTINF:-1 tvg-id="" tvg-name="CNBC INDONESIA" tvg-logo="https://i.ibb.co/h8y058y/cnbc-indo-home-tv.png" group-title="SINAR",CNBC INDONESIA
-http://103.150.197.50:25461/hiduplagi/exwarungtv/17
-#EXTINF:-1 tvg-id="MentariTV.id" tvg-name="MENTARI TV" tvg-logo="http://103.150.197.50:25461/images/617290089920437694c0e872f3ba325b.png" group-title="SINAR",MENTARI TV
-http://103.150.197.50:25461/hiduplagi/exwarungtv/18
-#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="http://103.150.197.50:25461/images/1ce1c72d240fa06a934173c178e3affe.png" group-title="SINAR",TVRI
-http://103.150.197.50:25461/hiduplagi/exwarungtv/19
-#EXTINF:-1 tvg-id="JakTV.id" tvg-name="JAK TV" tvg-logo="http://103.150.197.50:25461/images/f6a7ca65f082cf0a0cde0bc9d952ad82.png" group-title="SINAR",JAK TV
-http://103.150.197.50:25461/hiduplagi/exwarungtv/20
-#EXTINF:-1 tvg-id="HBOAsia.sg" tvg-name="HBO" tvg-logo="http://103.150.197.50:25461/images/c7542cc6c3edd2ec8908d0b985b074a9.png" group-title="SINAR",HBO
-http://103.150.197.50:25461/hiduplagi/exwarungtv/21
-#EXTINF:-1 tvg-id="HBOHitsAsia.sg" tvg-name="HBO HITS" tvg-logo="http://103.150.197.50:25461/images/0a42f14d49bed9edc4fd117724831b02.png" group-title="SINAR",HBO HITS
-http://103.150.197.50:25461/hiduplagi/exwarungtv/22
-#EXTINF:-1 tvg-id="HBOSignatureAsia.sg" tvg-name="HBO SIGNATURE" tvg-logo="http://fortunetv.ddns.net:25461/images/2601f0a174842c9cb6e9917e39ccb029.png" group-title="SINAR",HBO SIGNATURE
-http://103.150.197.50:25461/hiduplagi/exwarungtv/23
-#EXTINF:-1 tvg-id="HBOFamilyAsia.sg" tvg-name="HBO FAMILY" tvg-logo="http://103.150.197.50:25461/images/8db3edac72fdad7039e9f915beac4b79.png" group-title="SINAR",HBO FAMILY
-http://103.150.197.50:25461/hiduplagi/exwarungtv/24
-#EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="CINEMAX" tvg-logo="http://103.150.197.50:25461/images/c654b03f61cb190e8f8b7421f6e31544.png" group-title="SINAR",CINEMAX
-http://103.150.197.50:25461/hiduplagi/exwarungtv/25
-#EXTINF:-1 tvg-id="" tvg-name="FLIK" tvg-logo="http://103.150.197.50:25461/images/aea434288128626961776d8886da521c.png" group-title="SINAR",FLIK
-http://103.150.197.50:25461/hiduplagi/exwarungtv/26
-#EXTINF:-1 tvg-id="" tvg-name="IMC" tvg-logo="http://103.150.197.50:25461/images/77d9beb631ac44b8dbdd5081cee98962.png" group-title="SINAR",IMC
-http://103.150.197.50:25461/hiduplagi/exwarungtv/27
-#EXTINF:-1 tvg-id="CCM.hk" tvg-name="CCM" tvg-logo="http://103.150.197.50:25461/images/c4eda5d1c0aacc320e285793a136cda3.png" group-title="SINAR",CCM
-http://103.150.197.50:25461/hiduplagi/exwarungtv/28
-#EXTINF:-1 tvg-id="AXNIndonesia.id" tvg-name="AXN" tvg-logo="http://103.150.197.50:25461/images/2eaa0d9164ed29051ffd2af5972f8cab.png" group-title="SINAR",AXN
-http://103.150.197.50:25461/hiduplagi/exwarungtv/29
-#EXTINF:-1 tvg-id="WarnerTVAsia.us" tvg-name="WARNER" tvg-logo="http://103.150.197.50:25461/images/c11c021cada6a4b1491b2ea4d8a36ab0.png" group-title="SINAR",WARNER
-http://103.150.197.50:25461/hiduplagi/exwarungtv/30
-#EXTINF:-1 tvg-id="Thrill.hk" tvg-name="THRILL" tvg-logo="http://103.150.197.50:25461/images/7045b9136c4b574a61e2decc3908f72f.png" group-title="SINAR",THRILL
-http://103.150.197.50:25461/hiduplagi/exwarungtv/31
-#EXTINF:-1 tvg-id="tvNMoviesAsia.hk" tvg-name="TVN MOVIES" tvg-logo="http://103.150.197.50:25461/images/f2887b7385550ac743f72547529aabe9.png" group-title="SINAR",TVN MOVIES
-http://103.150.197.50:25461/hiduplagi/exwarungtv/32
-#EXTINF:-1 tvg-id="ZeeBioskop.id" tvg-name="ZEE BIOSKOP" tvg-logo="http://103.150.197.50:25461/images/b7a84e81ae4c60c9cb2023bb3540db37.png" group-title="SINAR",ZEE BIOSKOP
-http://103.150.197.50:25461/hiduplagi/exwarungtv/33
-#EXTINF:-1 tvg-id="Galaxy.id" tvg-name="GALAXY" tvg-logo="http://103.150.197.50:25461/images/27b902760793109d66c9ac283313cc56.png" group-title="SINAR",GALAXY
-http://103.150.197.50:25461/hiduplagi/exwarungtv/34
-#EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-name="GALAXY PREMIUM" tvg-logo="http://103.150.197.50:25461/images/913adc100a4d6efe5677d96105380ff7.png" group-title="SINAR",GALAXY PREMIUM
-http://103.150.197.50:25461/hiduplagi/exwarungtv/35
-#EXTINF:-1 tvg-id="CinemaWorld.my" tvg-name="CINEMA WORLD" tvg-logo="http://103.150.197.50:25461/images/ca593c1b2ea38de021239d140b195d11.png" group-title="SINAR",CINEMA WORLD
-http://103.150.197.50:25461/hiduplagi/exwarungtv/36
-#EXTINF:-1 tvg-id="CelestialMoviesIndonesia.id" tvg-name="Celestial Movies" tvg-logo="http://103.150.197.50:25461/images/c2649f6e46a33ced289f0485a7103b64.png" group-title="SINAR",Celestial Movies
-http://103.150.197.50:25461/hiduplagi/exwarungtv/37
-#EXTINF:-1 tvg-id="HITS.sg" tvg-name="Hits" tvg-logo="http://103.150.197.50:25461/images/526336e504f7d97c645adebb2e66546d.png" group-title="SINAR",Hits
-http://103.150.197.50:25461/hiduplagi/exwarungtv/38
-#EXTINF:-1 tvg-id="HITSMovies.sg" tvg-name="HITS MOVIES" tvg-logo="http://103.150.197.50:25461/images/392f3f8d60488a57ef0d22ecc48cfa6f.png" group-title="SINAR",HITS MOVIES
-http://103.150.197.50:25461/hiduplagi/exwarungtv/39
-#EXTINF:-1 tvg-id="" tvg-name="Paramount" tvg-logo="http://103.150.197.50:25461/images/b6efe05c7bc218f61042f3fe19ba085c.png" group-title="SINAR",Paramount
-http://103.150.197.50:25461/hiduplagi/exwarungtv/40
-#EXTINF:-1 tvg-id="" tvg-name="MY CINEMA" tvg-logo="http://103.150.197.50:25461/images/d3f15b6111c34dc91996e718ba818eb4.png" group-title="SINAR",MY CINEMA
-http://103.150.197.50:25461/hiduplagi/exwarungtv/41
-#EXTINF:-1 tvg-id="" tvg-name="MY CINEMA ASIA" tvg-logo="http://103.150.197.50:25461/images/496b1813ea66bec52da5b5af09ea0124.png" group-title="SINAR",MY CINEMA ASIA
-http://103.150.197.50:25461/hiduplagi/exwarungtv/42
-#EXTINF:-1 tvg-id="" tvg-name="MY FAMILY CHANNEL" tvg-logo="http://103.150.197.50:25461/images/7c6eb04f3448e097cd8624726390cb29.png" group-title="SINAR",MY FAMILY CHANNEL
-http://103.150.197.50:25461/hiduplagi/exwarungtv/43
-#EXTINF:-1 tvg-id="KidsTV.id" tvg-name="KIDS TV" tvg-logo="http://103.150.197.50:25461/images/3a97aaf9e1b45d830aa7a5037bdc22f1.png" group-title="SINAR",KIDS TV
-http://103.150.197.50:25461/hiduplagi/exwarungtv/44
-#EXTINF:-1 tvg-id="NickJrAsia.sg" tvg-name="NICK JR" tvg-logo="http://103.150.197.50:25461/images/6235bbb0b23e20f7dd41fa1aae1b6e1f.png" group-title="SINAR",NICK JR
-http://103.150.197.50:25461/hiduplagi/exwarungtv/45
-#EXTINF:-1 tvg-id="CBeebiesAsia.uk" tvg-name="CBEEBIES" tvg-logo="http://103.150.197.50:25461/images/6be3f8b2118c2e09f732858bf805d440.png" group-title="SINAR",CBEEBIES
-http://103.150.197.50:25461/hiduplagi/exwarungtv/46
-#EXTINF:-1 tvg-id="NickelodeonAsia.sg" tvg-name="NICKELODEON" tvg-logo="http://103.150.197.50:25461/images/3a8750e5cc99daba02f1f52ff124e247.png" group-title="SINAR",NICKELODEON
-http://103.150.197.50:25461/hiduplagi/exwarungtv/47
-#EXTINF:-1 tvg-id="" tvg-name="DREAMWORKS" tvg-logo="http://103.150.197.50:25461/images/b3e7539279749c0c9c3b4bb8c5c0255c.png" group-title="SINAR",DREAMWORKS
-http://103.150.197.50:25461/hiduplagi/exwarungtv/48
-#EXTINF:-1 tvg-id="BoomerangAsia.sg" tvg-name="BOOMERANG" tvg-logo="http://103.150.197.50:25461/images/dcb09a6f9fdf3555b98ed142fd889d90.png" group-title="SINAR",BOOMERANG
-http://103.150.197.50:25461/hiduplagi/exwarungtv/49
-#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="CARTOON NETWORK" tvg-logo="http://103.150.197.50:25461/images/68a1d574d64a4fff2aa1d4469f7c3c39.png" group-title="SINAR",CARTOON NETWORK
-http://103.150.197.50:25461/hiduplagi/exwarungtv/50
-#EXTINF:-1 tvg-id="MiaoMi.hk" tvg-name="MIAO MI" tvg-logo="http://103.150.197.50:25461/images/cedbeaf2c7c9278285daaa9e17cc7d9a.png" group-title="SINAR",MIAO MI
-http://103.150.197.50:25461/hiduplagi/exwarungtv/51
-#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="BABY TV" tvg-logo="http://103.150.197.50:25461/images/de8e7816e08566b5e82e442538a8bfb7.png" group-title="SINAR",BABY TV
-http://103.150.197.50:25461/hiduplagi/exwarungtv/52
-#EXTINF:-1 tvg-id="AnimaxAsia.sg" tvg-name="ANIMAX" tvg-logo="http://103.150.197.50:25461/images/be524b7051b875fe06fe88cad9cc0322.png" group-title="SINAR",ANIMAX
-http://103.150.197.50:25461/hiduplagi/exwarungtv/53
-#EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-name="ANIPLUS" tvg-logo="http://103.150.197.50:25461/images/8934fe76892fd7a88d78b3d1763f2ede.png" group-title="SINAR",ANIPLUS
-http://103.150.197.50:25461/hiduplagi/exwarungtv/54
-#EXTINF:-1 tvg-id="" tvg-name="UPIN & IPIN" tvg-logo="https://i.ibb.co/BnwXR2w/Upin-ipin.png" group-title="SINAR",UPIN & IPIN
-http://103.150.197.50:25461/hiduplagi/exwarungtv/55
-#EXTINF:-1 tvg-id="" tvg-name="SOPO JARWO" tvg-logo="https://i.ibb.co/RyS9H7T/Sopo-jarwo.png" group-title="SINAR",SOPO JARWO
-http://103.150.197.50:25461/hiduplagi/exwarungtv/56
-#EXTINF:-1 tvg-id="" tvg-name="MASHA AND THE BEAR" tvg-logo="https://i.ibb.co/sjPmrJ2/Masha-bear.png" group-title="SINAR",MASHA AND THE BEAR
-http://103.150.197.50:25461/hiduplagi/exwarungtv/57
-#EXTINF:-1 tvg-id="" tvg-name="BERNARD" tvg-logo="https://i.ibb.co/W04R25f/Bernard.png" group-title="SINAR",BERNARD
-http://103.150.197.50:25461/hiduplagi/exwarungtv/58
-#EXTINF:-1 tvg-id="" tvg-name="SHAUN THE SHEEP" tvg-logo="https://i.ibb.co/tX5tpsC/Shaun-the-sheep.png" group-title="SINAR",SHAUN THE SHEEP
-http://103.150.197.50:25461/hiduplagi/exwarungtv/59
-#EXTINF:-1 tvg-id="" tvg-name="DONALD DUCK" tvg-logo="https://i.ibb.co/HtVbYF3/Donal-duck.png" group-title="SINAR",DONALD DUCK
-http://103.150.197.50:25461/hiduplagi/exwarungtv/60
-#EXTINF:-1 tvg-id="" tvg-name="LARVA" tvg-logo="https://i.ibb.co/CMFv3H3/Larva-hometv.png" group-title="SINAR",LARVA
-http://103.150.197.50:25461/hiduplagi/exwarungtv/61
-#EXTINF:-1 tvg-id="" tvg-name="BEAN CARTOON" tvg-logo="https://i.ibb.co/RjTCm89/Bean-cartoon.png" group-title="SINAR",BEAN CARTOON
-http://103.150.197.50:25461/hiduplagi/exwarungtv/62
-#EXTINF:-1 tvg-id="VisionPrime.id" tvg-name="VISION PRIME" tvg-logo="http://103.150.197.50:25461/images/ecaa64cce2c0ea942c7fcf1383e41720.png" group-title="SINAR",VISION PRIME
-http://103.150.197.50:25461/hiduplagi/exwarungtv/63
-#EXTINF:-1 tvg-id="OKTV.id" tvg-name="OK TV" tvg-logo="http://103.150.197.50:25461/images/370d976dc0475e561ffb1bff003c521f.png" group-title="SINAR",OK TV
-http://103.150.197.50:25461/hiduplagi/exwarungtv/64
-#EXTINF:-1 tvg-id="KPlus.sg" tvg-name="K+" tvg-logo="http://103.150.197.50:25461/images/44e1c03dd65fefea7c8bae7a63792716.png" group-title="SINAR",K+
-http://103.150.197.50:25461/hiduplagi/exwarungtv/65
-#EXTINF:-1 tvg-id="tvNAsia.hk" tvg-name="TVN" tvg-logo="http://103.150.197.50:25461/images/803e78becd80916a25b40d805ad9b0c2.png" group-title="SINAR",TVN
-http://103.150.197.50:25461/hiduplagi/exwarungtv/66
-#EXTINF:-1 tvg-id="FMN.id" tvg-name="FMN" tvg-logo="http://103.150.197.50:25461/images/9f66fee529b9dc7274dffa822a112692.png" group-title="SINAR",FMN
-http://103.150.197.50:25461/hiduplagi/exwarungtv/67
-#EXTINF:-1 tvg-id="" tvg-name="MNC ENTERTAINMENT" tvg-logo="http://103.150.197.50:25461/images/4f113e5dad9054016b1f8d65b5099e23.png" group-title="SINAR",MNC ENTERTAINMENT
-http://103.150.197.50:25461/hiduplagi/exwarungtv/68
-#EXTINF:-1 tvg-id="" tvg-name="MNC INFOTAINMENT" tvg-logo="http://103.150.197.50:25461/images/d01cad963d69c27aab8fb0868afd3dc1.png" group-title="SINAR",MNC INFOTAINMENT
-http://103.150.197.50:25461/hiduplagi/exwarungtv/69
-#EXTINF:-1 tvg-id="OneTVAsia.sg" tvg-name="SONY ONE" tvg-logo="http://103.150.197.50:25461/images/a8ceba782476c442fccdffbb1a533cdb.png" group-title="SINAR",SONY ONE
-http://103.150.197.50:25461/hiduplagi/exwarungtv/70
-#EXTINF:-1 tvg-id="GEM.sg" tvg-name="Sony Gem" tvg-logo="http://103.150.197.50:25461/images/646da7fef84d7ab9d6412ecd48ebafd8.png" group-title="SINAR",Sony Gem
-http://103.150.197.50:25461/hiduplagi/exwarungtv/71
-#EXTINF:-1 tvg-id="ROCKEntertainment.sg" tvg-name="Rock Entertainment" tvg-logo="http://103.150.197.50:25461/images/535ad2804176cc72000f383f0690deab.png" group-title="SINAR",Rock Entertainment
-http://103.150.197.50:25461/hiduplagi/exwarungtv/72
-#EXTINF:-1 tvg-id="ROCKExtreme.sg" tvg-name="Rock Action" tvg-logo="http://103.150.197.50:25461/images/290a076c5ed206e8756bfc8b429885bb.png" group-title="SINAR",Rock Action
-http://103.150.197.50:25461/hiduplagi/exwarungtv/73
-#EXTINF:-1 tvg-id="TV5MondeAsia.fr" tvg-name="TV 5 MONDE" tvg-logo="http://103.150.197.50:25461/images/3438f4c15149d5d2129412cb49716590.png" group-title="SINAR",TV 5 MONDE
-http://103.150.197.50:25461/hiduplagi/exwarungtv/74
-#EXTINF:-1 tvg-id="ABCAustralia.au" tvg-name="ABC AUSTRALIA" tvg-logo="http://103.150.197.50:25461/images/91c6b59f04c9cb3f1dacab2501808699.png" group-title="SINAR",ABC AUSTRALIA
-http://103.150.197.50:25461/hiduplagi/exwarungtv/75
-#EXTINF:-1 tvg-id="" tvg-name="KBS WORLD" tvg-logo="http://103.150.197.50:25461/images/d3e1dd16bced724e2c744d4e0d6e036c.png" group-title="SINAR",KBS WORLD
-http://103.150.197.50:25461/hiduplagi/exwarungtv/76
-#EXTINF:-1 tvg-id="ArirangWorld.kr" tvg-name="ARIRANG" tvg-logo="http://103.150.197.50:25461/images/e87fa363d95697202df24f8b4214a6c2.png" group-title="SINAR",ARIRANG
-http://103.150.197.50:25461/hiduplagi/exwarungtv/77
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK WORLD" tvg-logo="http://103.150.197.50:25461/images/40f49a5ccf20fb73e57239a2ef0cca94.png" group-title="SINAR",NHK WORLD
-http://103.150.197.50:25461/hiduplagi/exwarungtv/78
-#EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-name="NHK WORLD PREMIUM" tvg-logo="http://103.150.197.50:25461/images/42ca82a477fdf193229c8f8f34c18c92.png" group-title="SINAR",NHK WORLD PREMIUM
-http://103.150.197.50:25461/hiduplagi/exwarungtv/79
-#EXTINF:-1 tvg-id="" tvg-name="SERU TV" tvg-logo="http://103.150.197.50:25461/images/1104a6a744a8c3a28f6d0c1668785f10.png" group-title="SINAR",SERU TV
-http://103.150.197.50:25461/hiduplagi/exwarungtv/80
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://103.150.197.50:25461/images/d0b60a15e4aa0252d99a48c7f81aa522.png" group-title="SINAR",DISCOVERY CHANNEL
-http://103.150.197.50:25461/hiduplagi/exwarungtv/81
-#EXTINF:-1 tvg-id="NationalGeographicIndonesia.id" tvg-name="Nat Geographic" tvg-logo="http://103.150.197.50:25461/images/5f3baa2fc1cc5592394b2ff31eb5f50c.png" group-title="SINAR",Nat Geographic
-http://103.150.197.50:25461/hiduplagi/exwarungtv/82
-#EXTINF:-1 tvg-id="NationalGeographicWildIndonesia.id" tvg-name="NAT GEO WILD" tvg-logo="http://103.150.197.50:25461/images/2e52b0d070044b00e192de084cd3264e.png" group-title="SINAR",NAT GEO WILD
-http://103.150.197.50:25461/hiduplagi/exwarungtv/83
-#EXTINF:-1 tvg-id="AnimalPlanetSoutheastAsia.sg" tvg-name="ANIMAL PLANET" tvg-logo="http://103.150.197.50:25461/images/805caee4a32a7c01f4ba58cdf5328a08.png" group-title="SINAR",ANIMAL PLANET
-http://103.150.197.50:25461/hiduplagi/exwarungtv/84
-#EXTINF:-1 tvg-id="BBCEarthAsia.uk" tvg-name="BBC EARTH" tvg-logo="http://103.150.197.50:25461/images/c751cc1a96e2f33592942038302a8329.png" group-title="SINAR",BBC EARTH
-http://103.150.197.50:25461/hiduplagi/exwarungtv/85
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY" tvg-logo="http://103.150.197.50:25461/images/3f376f425f6d6ffb9f6c6df9cb313be8.png" group-title="SINAR",HISTORY
-http://103.150.197.50:25461/hiduplagi/exwarungtv/86
-#EXTINF:-1 tvg-id="CrimePlusInvestigationAsia.sg" tvg-name="CRIME INVESTIGATION" tvg-logo="http://103.150.197.50:25461/images/1731d7cd6d9defbb03b60e396db8d827.png" group-title="SINAR",CRIME INVESTIGATION
-http://103.150.197.50:25461/hiduplagi/exwarungtv/87
-#EXTINF:-1 tvg-id="DMAXSoutheastAsia.sg" tvg-name="DMAX" tvg-logo="http://103.150.197.50:25461/images/b86d6c715b67b3d0f00db4d2840fc76f.png" group-title="SINAR",DMAX
-http://103.150.197.50:25461/hiduplagi/exwarungtv/88
-#EXTINF:-1 tvg-id="DiscoveryAsia.sg" tvg-name="DISCOVERY ASIA" tvg-logo="http://103.150.197.50:25461/images/a9586a32029ca321cb27d704d1563f60.png" group-title="SINAR",DISCOVERY ASIA
-http://103.150.197.50:25461/hiduplagi/exwarungtv/89
-#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE 4k" tvg-logo="http://103.150.197.50:25461/images/4dbbcae284ed653fd64f9a5aeb244608.png" group-title="SINAR",LOVE NATURE 4k
-http://103.150.197.50:25461/hiduplagi/exwarungtv/90
-#EXTINF:-1 tvg-id="" tvg-name="SMITHSONIAN" tvg-logo="http://103.150.197.50:25461/images/bc922169bfcce0b8d0d2a467bbf9ab04.png" group-title="SINAR",SMITHSONIAN
-http://103.150.197.50:25461/hiduplagi/exwarungtv/91
-#EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="http://103.150.197.50:25461/images/5b39782c88090659db67722a04dfeb9d.png" group-title="SINAR",ATV
-http://103.150.197.50:25461/hiduplagi/exwarungtv/92
-#EXTINF:-1 tvg-id="" tvg-name="SOCCER CHANNEL" tvg-logo="http://103.150.197.50:25461/images/aef69c8bd9659ab60630499813ae82b4.png" group-title="SINAR",SOCCER CHANNEL
-http://103.150.197.50:25461/hiduplagi/exwarungtv/93
-#EXTINF:-1 tvg-id="MNCSports.id" tvg-name="MNC SPORT 1" tvg-logo="http://103.150.197.50:25461/images/b32f0136d2b5c3ce0aeaac3974094776.png" group-title="SINAR",MNC SPORT 1
-http://103.150.197.50:25461/hiduplagi/exwarungtv/94
-#EXTINF:-1 tvg-id="MNCSports2.id" tvg-name="MNC SPORT 2" tvg-logo="http://103.150.197.50:25461/images/27d21f3b647b721ddbd76d2aa5b1bf9f.png" group-title="SINAR",MNC SPORT 2
-http://103.150.197.50:25461/hiduplagi/exwarungtv/95
-#EXTINF:-1 tvg-id="MNCSports3.id" tvg-name="MNC SPORT 3" tvg-logo="http://103.150.197.50:25461/images/c73b0ca127155f53115dccd20c848d15.png" group-title="SINAR",MNC SPORT 3
-http://103.150.197.50:25461/hiduplagi/exwarungtv/96
-#EXTINF:-1 tvg-id="" tvg-name="MOJI" tvg-logo="http://103.150.197.50:25461/images/edc86f0a89ee2e35e3aaf16a9698fdeb.png" group-title="SINAR",MOJI
-http://103.150.197.50:25461/hiduplagi/exwarungtv/97
-#EXTINF:-1 tvg-id="" tvg-name="USEE SPORTS 1" tvg-logo="http://103.150.197.50:25461/images/12d5ff30cdd7a23d34b949c9217ae31c.png" group-title="SINAR",USEE SPORTS 1
-http://103.150.197.50:25461/hiduplagi/exwarungtv/98
-#EXTINF:-1 tvg-id="" tvg-name="USEE SPORTS 2" tvg-logo="http://103.150.197.50:25461/images/5b215e940bd6ee10afd3829573204817.png" group-title="SINAR",USEE SPORTS 2
-http://103.150.197.50:25461/hiduplagi/exwarungtv/99
-#EXTINF:-1 tvg-id="SPOTV.kr" tvg-name="SPO TV 1" tvg-logo="http://103.150.197.50:25461/images/92c54d0c365c60fc28d9414982cf4c86.png" group-title="SINAR",SPO TV 1
-http://103.150.197.50:25461/hiduplagi/exwarungtv/100
-#EXTINF:-1 tvg-id="SPOTV2.kr" tvg-name="SPO TV 2" tvg-logo="http://103.150.197.50:25461/images/bfacb38f296ffebe049e5028a1c56d73.png" group-title="SINAR",SPO TV 2
-http://103.150.197.50:25461/hiduplagi/exwarungtv/101
-#EXTINF:-1 tvg-id="beINSports1Indonesia.id" tvg-name="BEIN 1" tvg-logo="http://103.150.197.50:25461/images/26fcfdaf4eec9184cc091e9657ab49a2.png" group-title="SINAR",BEIN 1
-http://103.150.197.50:25461/hiduplagi/exwarungtv/102
-#EXTINF:-1 tvg-id="beINSports3Indonesia.id" tvg-name="BEIN 3" tvg-logo="http://103.150.197.50:25461/images/4e03a16a018f02ec7a2693b65255e232.png" group-title="SINAR",BEIN 3
-http://103.150.197.50:25461/hiduplagi/exwarungtv/103
-#EXTINF:-1 tvg-id="" tvg-name="UFC" tvg-logo="http://103.150.197.50:25461/images/ba6bc8c7303657fb352357479a313b62.png" group-title="SINAR",UFC
-http://103.150.197.50:25461/hiduplagi/exwarungtv/104
-#EXTINF:-1 tvg-id="" tvg-name="WWE" tvg-logo="http://103.150.197.50:25461/images/11e152608da445095e78240e49b679e2.png" group-title="SINAR",WWE
-http://103.150.197.50:25461/hiduplagi/exwarungtv/105
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="http://103.150.197.50:25461/images/8a0850695172b6a1e4936b90ce3a9407.png" group-title="SINAR",NBA TV
-http://103.150.197.50:25461/hiduplagi/exwarungtv/106
-#EXTINF:-1 tvg-id="" tvg-name="GOLF PLUS" tvg-logo="http://103.150.197.50:25461/images/6fc750504cd03131be13896e911315ec.png" group-title="SINAR",GOLF PLUS
-http://103.150.197.50:25461/hiduplagi/exwarungtv/107
-#EXTINF:-1 tvg-id="" tvg-name="TVRI SPORT" tvg-logo="http://103.150.197.50:25461/images/5c46f13e80eba51a3361342d85fd74c7.png" group-title="SINAR",TVRI SPORT
-http://103.150.197.50:25461/hiduplagi/exwarungtv/108
-#EXTINF:-1 tvg-id="CNNInternationalAsiaPacific.hk" tvg-name="CNN INTERNATIONAL" tvg-logo="http://103.150.197.50:25461/images/c7eba3dc2c42457f4b77bace00dc2602.png" group-title="SINAR",CNN INTERNATIONAL
-http://103.150.197.50:25461/hiduplagi/exwarungtv/109
-#EXTINF:-1 tvg-id="CNBCAsia.sg" tvg-name="CNBC ASIA" tvg-logo="http://103.150.197.50:25461/images/0e52b2e2db8f7ee935297647322ecec5.png" group-title="SINAR",CNBC ASIA
-http://103.150.197.50:25461/hiduplagi/exwarungtv/110
-#EXTINF:-1 tvg-id="BBCWorldNewsAsiaPacific.uk" tvg-name="BBC NEWS" tvg-logo="http://103.150.197.50:25461/images/83744251306a5c018ac3f83ae4db3733.png" group-title="SINAR",BBC NEWS
-http://103.150.197.50:25461/hiduplagi/exwarungtv/111
-#EXTINF:-1 tvg-id="BloombergTVAsia.hk" tvg-name="BLOOMBERG" tvg-logo="http://103.150.197.50:25461/images/80e6bc4c9abbe3334bd8b3b1330659d6.png" group-title="SINAR",BLOOMBERG
-http://103.150.197.50:25461/hiduplagi/exwarungtv/112
-#EXTINF:-1 tvg-id="IDXChannel.id" tvg-name="IDX" tvg-logo="http://103.150.197.50:25461/images/2ab5afe5d84c1d7efed455c486774c72.png" group-title="SINAR",IDX
-http://103.150.197.50:25461/hiduplagi/exwarungtv/113
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://103.150.197.50:25461/images/754c74e76dfe98d42be6cabdc18a055d.png" group-title="SINAR",HGTV
-http://103.150.197.50:25461/hiduplagi/exwarungtv/122
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="http://103.150.197.50:25461/images/a1a059fe912fc6f0f0253a54988d16bb.png" group-title="SINAR",TLC
-http://103.150.197.50:25461/hiduplagi/exwarungtv/123
-#EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="AFN" tvg-logo="http://fortunetv.ddns.net:25461/images/367ecdfce8640481da3535c7b21aa20a.png" group-title="SINAR",AFN
-http://103.150.197.50:25461/hiduplagi/exwarungtv/124
-#EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="http://103.150.197.50:25461/images/21de2580715e668003b299f13e11c38d.png" group-title="SINAR",LIFETIME
-http://103.150.197.50:25461/hiduplagi/exwarungtv/125
-#EXTINF:-1 tvg-id="" tvg-name="FASHION TV" tvg-logo="http://103.150.197.50:25461/images/41cdc3c4e72492b37a2a541fb6571724.png" group-title="SINAR",FASHION TV
-http://103.150.197.50:25461/hiduplagi/exwarungtv/126
-#EXTINF:-1 tvg-id="" tvg-name="LIFESTYLE & FASHION" tvg-logo="http://103.150.197.50:25461/images/5bd5655f453d20c96652e4de6ab78659.png" group-title="SINAR",LIFESTYLE & FASHION
-http://103.150.197.50:25461/hiduplagi/exwarungtv/127
-#EXTINF:-1 tvg-id="" tvg-name="BALI TV" tvg-logo="https://i.ibb.co/vw4nsnm/balitv.png" group-title="SINAR",BALI TV
-http://103.150.197.50:25461/hiduplagi/exwarungtv/128
-#EXTINF:-1 tvg-id="" tvg-name="JTV" tvg-logo="https://i.ibb.co/8KcLGMx/jtv.png" group-title="SINAR",JTV
-http://103.150.197.50:25461/hiduplagi/exwarungtv/129
-#EXTINF:-1 tvg-id="" tvg-name="TVKU" tvg-logo="https://i.ibb.co/ZWXVjG4/Tvku-hometv.png" group-title="SINAR",TVKU
-http://103.150.197.50:25461/hiduplagi/exwarungtv/142
-#EXTINF:-1 tvg-id="" tvg-name="BBS TV" tvg-logo="https://i.ibb.co/YQJCsZ9/Bbstv.png" group-title="SINAR",BBS TV
-http://103.150.197.50:25461/hiduplagi/exwarungtv/143
-#EXTINF:-1 tvg-id="" tvg-name="Movies 24/7" tvg-logo="" group-title="SINAR",Movies 24/7
-http://103.150.197.50:25461/hiduplagi/exwarungtv/145
-#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro Sports 1" tvg-logo="http://103.150.197.50:25461/images/f27d2ac15c1a08601d63fa289d7384f3.png" group-title="SINAR",Astro Sports 1
-http://103.150.197.50:25461/hiduplagi/exwarungtv/159
-#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro Sports 2" tvg-logo="http://103.150.197.50:25461/images/befc34521d35830fd89e9237b06d71ce.png" group-title="SINAR",Astro Sports 2
-http://103.150.197.50:25461/hiduplagi/exwarungtv/160
-#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="Astro Sports 3" tvg-logo="http://103.150.197.50:25461/images/01ef87ac912373d0fbfd529510e87dbb.png" group-title="SINAR",Astro Sports 3
-http://103.150.197.50:25461/hiduplagi/exwarungtv/161
-#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro Sports 4" tvg-logo="http://103.150.197.50:25461/images/7b993523b2cc2368689b1afb3fa9e4cd.png" group-title="SINAR",Astro Sports 4
-http://103.150.197.50:25461/hiduplagi/exwarungtv/162
-#EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-name="Astro Sports 5" tvg-logo="http://103.150.197.50:25461/images/bc0130fb2c2a2013fb14a3ae07add456.png" group-title="SINAR",Astro Sports 5
-http://103.150.197.50:25461/hiduplagi/exwarungtv/163
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 1 Premium " tvg-logo="http://103.150.197.50:25461/images/e30a96ef1cf66ac23bc4c1a01a9997ed.png" group-title="SINAR",Bein Sports 1 Premium 
-http://103.150.197.50:25461/hiduplagi/exwarungtv/164
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 2 Premium" tvg-logo="http://103.150.197.50:25461/images/d3a637e1d805e67d917c310f812de6a7.png" group-title="SINAR",Bein Sports 2 Premium
-http://103.150.197.50:25461/hiduplagi/exwarungtv/165
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 3 Premium" tvg-logo="http://103.150.197.50:25461/images/7f8c915bb9a5373eae5c0bd4775c6c35.png" group-title="SINAR",Bein Sports 3 Premium
-http://103.150.197.50:25461/hiduplagi/exwarungtv/166
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 1 English" tvg-logo="http://103.150.197.50:25461/images/b840f4a5a4b859aeeaae64d1b15cbba0.png" group-title="SINAR",Bein Sports 1 English
-http://103.150.197.50:25461/hiduplagi/exwarungtv/167
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 2 English" tvg-logo="http://103.150.197.50:25461/images/9f9e9968824266281f5b9c7bce049e8c.png" group-title="SINAR",Bein Sports 2 English
-http://103.150.197.50:25461/hiduplagi/exwarungtv/168
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 3 English" tvg-logo="http://103.150.197.50:25461/images/7cc872dd6551ddd51adf05dc7bb4789f.png" group-title="SINAR",Bein Sports 3 English
-http://103.150.197.50:25461/hiduplagi/exwarungtv/169
-#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sports 1" tvg-logo="http://103.150.197.50:25461/images/72b090aebf783b64b0eb0622ff2f84b4.png" group-title="SINAR",BT Sports 1
-http://103.150.197.50:25461/hiduplagi/exwarungtv/170
-#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sports 2" tvg-logo="http://103.150.197.50:25461/images/57747ab889255af96b48d65e505382fe.png" group-title="SINAR",BT Sports 2
-http://103.150.197.50:25461/hiduplagi/exwarungtv/171
-#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="BT Sports 3" tvg-logo="http://103.150.197.50:25461/images/efc49a276703213883058b71bad5bb94.png" group-title="SINAR",BT Sports 3
-http://103.150.197.50:25461/hiduplagi/exwarungtv/172
-#EXTINF:-1 tvg-id="" tvg-name="TV 1" tvg-logo="" group-title="SINAR",TV 1
-http://103.150.197.50:25461/hiduplagi/exwarungtv/457
-#EXTINF:-1 tvg-id="" tvg-name="TV 2" tvg-logo="" group-title="SINAR",TV 2
-http://103.150.197.50:25461/hiduplagi/exwarungtv/458
-#EXTINF:-1 tvg-id="" tvg-name="TV 3" tvg-logo="" group-title="SINAR",TV 3
-http://103.150.197.50:25461/hiduplagi/exwarungtv/459
-#EXTINF:-1 tvg-id="" tvg-name=" TV 6" tvg-logo="" group-title="SINAR", TV 6
-http://103.150.197.50:25461/hiduplagi/exwarungtv/460
-#EXTINF:-1 tvg-id="" tvg-name="TV 9" tvg-logo="" group-title="SINAR",TV 9
-http://103.150.197.50:25461/hiduplagi/exwarungtv/462
-#EXTINF:-1 tvg-id="" tvg-name="AWESOME TV" tvg-logo="" group-title="SINAR",AWESOME TV
-http://103.150.197.50:25461/hiduplagi/exwarungtv/463
 
 ################################################ KULKA ############################################
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",HBO
+https://tvkitaproject.my.id/hbo/index.m3u8?id=hbohd
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",HBO Family
+https://tvkitaproject.my.id/hbo/index.m3u8?id=famhd
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",HBO HITS
+https://tvkitaproject.my.id/hbo/index.m3u8?id=hitshd
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",HBO SIGNATURE
+https://tvkitaproject.my.id/hbo/index.m3u8?id=sighd
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",CINEMAX
+https://tvkitaproject.my.id/hbo/index.m3u8?id=maxhd
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ID028:HBO" tvg-logo="" group-title="KULKA",ID028:HBO
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60473
-#EXTINF:-1 tvg-id="" tvg-name="ID029:HBO Family" tvg-logo="" group-title="KULKA",ID029:HBO Family
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60474
-#EXTINF:-1 tvg-id="" tvg-name="ID030:HBO Hits" tvg-logo="" group-title="KULKA",ID030:HBO Hits
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60458
-#EXTINF:-1 tvg-id="" tvg-name="ID031:HBO Signature" tvg-logo="" group-title="KULKA",ID031:HBO Signature
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60456
-#EXTINF:-1 tvg-id="" tvg-name="ID014:Cinemax" tvg-logo="" group-title="KULKA",ID014:Cinemax
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60459
-
-#EXTINF:-1 tvg-id="" tvg-name="ID068:Warner TV" tvg-logo="" group-title="KULKA",ID068:Warner TV
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60292
-
-#EXTINF:-1 tvg-id="" tvg-name="ID058:Trans TV" tvg-logo="" group-title="KULKA",ID058:Trans TV
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60279
-#EXTINF:-1 tvg-id="" tvg-name="ID059:Trans 7" tvg-logo="" group-title="KULKA",ID059:Trans 7
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60277
-
-#EXTINF:-1 tvg-id="" tvg-name="ID001:AXN" tvg-logo="" group-title="KULKA",ID001:AXN
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60464
-#EXTINF:-1 tvg-id="" tvg-name="ID002:AlQuran Kareem" tvg-logo="" group-title="KULKA",ID002:AlQuran Kareem
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60409
-#EXTINF:-1 tvg-id="" tvg-name="ID003:Animal Planet" tvg-logo="" group-title="KULKA",ID003:Animal Planet
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60475
-#EXTINF:-1 tvg-id="" tvg-name="ID004:MNC Shop Trendy " tvg-logo="" group-title="KULKA",ID004:MNC Shop Trendy 
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60407
-#EXTINF:-1 tvg-id="" tvg-name="ID005:Bali TV" tvg-logo="" group-title="KULKA",ID005:Bali TV
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60408
-#EXTINF:-1 tvg-id="" tvg-name="ID006:Berita Satu" tvg-logo="" group-title="KULKA",ID006:Berita Satu
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60476
-#EXTINF:-1 tvg-id="" tvg-name="ID007:CGTN" tvg-logo="" group-title="KULKA",ID007:CGTN
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60477
-#EXTINF:-1 tvg-id="" tvg-name="ID008:LifeStyle Fashion" tvg-logo="" group-title="KULKA",ID008:LifeStyle Fashion
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60411
-#EXTINF:-1 tvg-id="" tvg-name="ID009:Cartoon Network" tvg-logo="" group-title="KULKA",ID009:Cartoon Network
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60410
-#EXTINF:-1 tvg-id="" tvg-name="ID010:MNC Shop Smart" tvg-logo="" group-title="KULKA",ID010:MNC Shop Smart
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60285
-#EXTINF:-1 tvg-id="" tvg-name="ID011:Celestial Movies" tvg-logo="" group-title="KULKA",ID011:Celestial Movies
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60286
-#EXTINF:-1 tvg-id="" tvg-name="ID012:SEA Channel" tvg-logo="" group-title="KULKA",ID012:SEA Channel
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60479
-#EXTINF:-1 tvg-id="" tvg-name="ID013:Cinema World" tvg-logo="" group-title="KULKA",ID013:Cinema World
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60480
-#EXTINF:-1 tvg-id="" tvg-name="ID015:CNBC | HD" tvg-logo="" group-title="KULKA",ID015:CNBC | HD
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60357
-#EXTINF:-1 tvg-id="" tvg-name="ID016:MNC News" tvg-logo="" group-title="KULKA",ID016:MNC News
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60374
-#EXTINF:-1 tvg-id="" tvg-name="ID017:Daai TV" tvg-logo="" group-title="KULKA",ID017:Daai TV
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60375
-#EXTINF:-1 tvg-id="" tvg-name="ID018:Discovery Asia" tvg-logo="" group-title="KULKA",ID018:Discovery Asia
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60376
-#EXTINF:-1 tvg-id="" tvg-name="ID019:Discovery Channel" tvg-logo="" group-title="KULKA",ID019:Discovery Channel
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60481
-#EXTINF:-1 tvg-id="" tvg-name="ID020:Disney Junior" tvg-logo="" group-title="KULKA",ID020:Disney Junior
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60482
-#EXTINF:-1 tvg-id="" tvg-name="ID021:Disney XD" tvg-logo="" group-title="KULKA",ID021:Disney XD
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60448
-#EXTINF:-1 tvg-id="" tvg-name="ID022:Disney Channel" tvg-logo="" group-title="KULKA",ID022:Disney Channel
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60449
-#EXTINF:-1 tvg-id="" tvg-name="ID023:EWTN" tvg-logo="" group-title="KULKA",ID023:EWTN
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60450
-#EXTINF:-1 tvg-id="" tvg-name="ID025:Soccer Channel 2" tvg-logo="" group-title="KULKA",ID025:Soccer Channel 2
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60471
-#EXTINF:-1 tvg-id="" tvg-name="ID026:Cbeebies" tvg-logo="" group-title="KULKA",ID026:Cbeebies
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60472
-#EXTINF:-1 tvg-id="" tvg-name="ID027:GTV" tvg-logo="" group-title="KULKA",ID027:GTV
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60483
-#EXTINF:-1 tvg-id="" tvg-name="ID032:Hits Movies" tvg-logo="" group-title="KULKA",ID032:Hits Movies
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60457
-#EXTINF:-1 tvg-id="" tvg-name="ID033:MNC Entertainment " tvg-logo="" group-title="KULKA",ID033:MNC Entertainment 
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60466
-#EXTINF:-1 tvg-id="" tvg-name="ID034:iNews" tvg-logo="" group-title="KULKA",ID034:iNews
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60403
-#EXTINF:-1 tvg-id="" tvg-name="ID035:FMN" tvg-logo="" group-title="KULKA",ID035:FMN
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60404
-#EXTINF:-1 tvg-id="" tvg-name="ID036:JakTV" tvg-logo="" group-title="KULKA",ID036:JakTV
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60465
-#EXTINF:-1 tvg-id="" tvg-name="ID037:JTV" tvg-logo="" group-title="KULKA",ID037:JTV
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60461
-#EXTINF:-1 tvg-id="" tvg-name="ID038:OK TV" tvg-logo="" group-title="KULKA",ID038:OK TV
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60344
-#EXTINF:-1 tvg-id="" tvg-name="ID039:MNC Sports" tvg-logo="" group-title="KULKA",ID039:MNC Sports
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60351
-#EXTINF:-1 tvg-id="" tvg-name="ID040:ZBioskop" tvg-logo="" group-title="KULKA",ID040:ZBioskop
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60349
-#EXTINF:-1 tvg-id="" tvg-name="ID041:KiX" tvg-logo="" group-title="KULKA",ID041:KiX
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60350
-#EXTINF:-1 tvg-id="" tvg-name="ID042:Kompas TV" tvg-logo="" group-title="KULKA",ID042:Kompas TV
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60348
-#EXTINF:-1 tvg-id="" tvg-name="ID043:Metro TV" tvg-logo="" group-title="KULKA",ID043:Metro TV
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60347
-#EXTINF:-1 tvg-id="" tvg-name="ID044:Euronews" tvg-logo="" group-title="KULKA",ID044:Euronews
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60342
-#EXTINF:-1 tvg-id="" tvg-name="ID045:Muslim TV" tvg-logo="" group-title="KULKA",ID045:Muslim TV
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60343
-#EXTINF:-1 tvg-id="" tvg-name="ID046:TLC" tvg-logo="" group-title="KULKA",ID046:TLC
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60346
-#EXTINF:-1 tvg-id="" tvg-name="ID047:Nat Geo Wild" tvg-logo="" group-title="KULKA",ID047:Nat Geo Wild
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60345
-#EXTINF:-1 tvg-id="" tvg-name="ID048:NatGeo" tvg-logo="" group-title="KULKA",ID048:NatGeo
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60484
-#EXTINF:-1 tvg-id="" tvg-name="ID049:Nick Junior" tvg-logo="" group-title="KULKA",ID049:Nick Junior
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60462
-#EXTINF:-1 tvg-id="" tvg-name="ID050:MNC Sport 2" tvg-logo="" group-title="KULKA",ID050:MNC Sport 2
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60463
-#EXTINF:-1 tvg-id="" tvg-name="ID051:Red by HBO" tvg-logo="" group-title="KULKA",ID051:Red by HBO
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60367
-#EXTINF:-1 tvg-id="" tvg-name="ID052:Kids TV" tvg-logo="" group-title="KULKA",ID052:Kids TV
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60454
-#EXTINF:-1 tvg-id="" tvg-name="ID053:Bein Sports 1" tvg-logo="" group-title="KULKA",ID053:Bein Sports 1
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60455
-#EXTINF:-1 tvg-id="" tvg-name="ID054:RTV" tvg-logo="" group-title="KULKA",ID054:RTV
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60439
-#EXTINF:-1 tvg-id="" tvg-name="ID055:Sakti TV" tvg-logo="" group-title="KULKA",ID055:Sakti TV
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60287
-#EXTINF:-1 tvg-id="" tvg-name="ID056:Tawaf TV" tvg-logo="" group-title="KULKA",ID056:Tawaf TV
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60288
-#EXTINF:-1 tvg-id="" tvg-name="ID057:Thrill" tvg-logo="" group-title="KULKA",ID057:Thrill
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60276
-#EXTINF:-1 tvg-id="" tvg-name="ID060:TV9 NU" tvg-logo="" group-title="KULKA",ID060:TV9 NU
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60278
-#EXTINF:-1 tvg-id="" tvg-name="ID061:TVMu" tvg-logo="" group-title="KULKA",ID061:TVMu
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60280
-#EXTINF:-1 tvg-id="" tvg-name="ID062:TvN" tvg-logo="" group-title="KULKA",ID062:TvN
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60281
-#EXTINF:-1 tvg-id="" tvg-name="ID063:TVN Movies" tvg-logo="" group-title="KULKA",ID063:TVN Movies
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60282
-#EXTINF:-1 tvg-id="" tvg-name="ID064:RT" tvg-logo="" group-title="KULKA",ID064:RT
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60283
-#EXTINF:-1 tvg-id="" tvg-name="ID065:Anhui TV" tvg-logo="" group-title="KULKA",ID065:Anhui TV
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60293
-#EXTINF:-1 tvg-id="" tvg-name="ID066:BBC World News" tvg-logo="" group-title="KULKA",ID066:BBC World News
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60290
-#EXTINF:-1 tvg-id="" tvg-name="ID067:Vision Prime" tvg-logo="" group-title="KULKA",ID067:Vision Prime
-http://mxu03.wanicelife.com:8880/DWFAF9084035/B4BAZFH6/60291
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",&FLIX
+https://tvkitaproject.my.id/zee/index.php?c=0-9-channel_2105335046
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",&PRIVE
+https://tvkitaproject.my.id/zee/index.php?c=0-9-priv?hd
 
 
 ############################################## RIDIO ############################################

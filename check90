@@ -254,6 +254,9 @@ https://ilike.squdinc.workers.dev/play.m3u8?id=733&key=vidio&type=hls
 #EXTINF:-1 tvg-logo="" group-title="BOX TV",Trans 7
 https://ilike.squdinc.workers.dev/play.m3u8?id=734&key=vidio&type=hls
 
+#EXTINF:-1 tvg-logo="" group-title="BOX TV",Moji
+https://ilike.squdinc.workers.dev/play.m3u8?id=206&key=vidio&type=hls
+
 #EXTINF:-1 tvg-logo="" group-title="BOX TV",RANS
 https://ilike.squdinc.workers.dev/play.m3u8?id=8241&key=vidio&type=hls
 

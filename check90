@@ -358,20 +358,20 @@ https://ilike.squdinc.workers.dev/play.m3u8?id=6898&key=vidio&type=hls
 
 ################################################ KULKA ############################################
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",HBO
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="KULKA",HBO
 https://tvkitaproject.my.id/hbo/index.m3u8?id=hbohd
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",HBO Family
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="KULKA",HBO Family
 https://tvkitaproject.my.id/hbo/index.m3u8?id=famhd
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",HBO HITS
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="KULKA",HBO HITS
 https://tvkitaproject.my.id/hbo/index.m3u8?id=hitshd
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",HBO SIGNATURE
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="KULKA",HBO SIGNATURE
 https://tvkitaproject.my.id/hbo/index.m3u8?id=sighd
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",CINEMAX
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="KULKA",CINEMAX
 https://tvkitaproject.my.id/hbo/index.m3u8?id=maxhd
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",&FLIX
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="KULKA",&FLIX
 https://tvkitaproject.my.id/zee/index.php?c=0-9-channel_2105335046
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",&PRIVE
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="KULKA",&PRIVE
 https://tvkitaproject.my.id/zee/index.php?c=0-9-priv?hd
 
 ############################################## TEN TV ############################################

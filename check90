@@ -472,6 +472,131 @@ https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/7464.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TEN TV",Quran TV
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6852.m3u8
+
+####################################### XSEE ################################################
+
+
+#EXTINF:-1 tvg-logo="" group-title="XSEE",AFC
+https://devds.site/api/indihoy/hls.m3u8?ch=afc
+
+#EXTINF:-1 tvg-logo="" group-title="XSEE",RTV
+https://devds.site/api/indihoy/hls.m3u8?ch=rtv
+
+#EXTINF:-1 tvg-logo="" group-title="XSEE",INDIKIDS
+https://devds.site/api/indihoy/hls.m3u8?ch=indikids
+
+#EXTINF:-1 tvg-logo="" group-title="XSEE",SEA TODAY
+https://devds.site/api/indihoy/hls.m3u8?ch=seatoday
+
+#EXTINF:-1 tvg-logo="" group-title="XSEE",TRANS TV
+https://devds.site/api/indihoy/hls.m3u8?ch=transtv
+
+#EXTINF:-1 tvg-logo="" group-title="XSEE",TRANS 7
+https://devds.site/api/indihoy/hls.m3u8?ch=trans7
+
+#EXTINF:-1 tvg-logo="" group-title="XSEE",TV ONE
+https://devds.site/api/indihoy/hls.m3u8?ch=tvone
+
+#EXTINF:-1 tvg-logo="" group-title="XSEE",METRO TV
+https://devds.site/api/indihoy/hls.m3u8?ch=metrotv
+
+#EXTINF:-1 tvg-logo="" group-title="XSEE",KOMPAS TV
+https://devds.site/api/indihoy/hls.m3u8?ch=kompastv
+
+#EXTINF:-1 tvg-logo="" group-title="XSEE",INEWS
+https://devds.site/api/indihoy/hls.m3u8?ch=inews
+
+#EXTINF:-1 tvg-logo="" group-title="XSEE",TVRI
+https://devds.site/api/indihoy/hls.m3u8?ch=tvri
+
+#EXTINF:-1 tvg-logo="" group-title="XSEE",RODJATV
+https://devds.site/api/indihoy/hls.m3u8?ch=rodjatv
+
+#EXTINF:-1 tvg-logo="" group-title="XSEE",JTV
+https://devds.site/api/indihoy/hls.m3u8?ch=jtv
+
+#EXTINF:-1 tvg-logo="" group-title="XSEE",MNC NEWS
+https://devds.site/api/indihoy/hls.m3u8?ch=mncnews
+
+#EXTINF:-1 tvg-logo="" group-title="XSEE",RRI
+https://devds.site/api/indihoy/hls.m3u8?ch=rrinet
+
+#EXTINF:-1 tvg-logo="" group-title="XSEE",BERITA SATU
+https://devds.site/api/indihoy/hls.m3u8?ch=beritasatu
+
+#EXTINF:-1 tvg-logo="" group-title="XSEE",JAK TV
+https://devds.site/api/indihoy/hls.m3u8?ch=jaktv
+
+#EXTINF:-1 tvg-logo="" group-title="XSEE",NUSANTARA TV
+https://devds.site/api/indihoy/hls.m3u8?ch=nusantaratv
+
+#EXTINF:-1 tvg-logo="" group-title="XSEE",ANTARA 
+https:/devds.site/api/indihoy/hls.m3u8?ch=antara
+
+#EXTINF:-1 tvg-logo="" group-title="XSEE",IDX
+https://devds.site/api/indihoy/hls.m3u8?ch=idx
+
+#EXTINF:-1 tvg-logo="" group-title="XSEE",SPOTV
+https://devds.site/api/indihoy/hls.m3u8?ch=spotv
+
+#EXTINF:-1 tvg-logo="" group-title="XSEE",SPOTV 2
+https://devds.site/api/indihoy/hls.m3u8?ch=spotv2
+
+#EXTINF:-1 tvg-logo="" group-title="XSEE",BEIN 1
+https://devds.site/api/indihoy/hls.m3u8?ch=bein1
+
+#EXTINF:-1 tvg-logo="" group-title="XSEE",BEIN 2
+https://devds.site/api/indihoy/hls.m3u8?ch=bein2
+
+#EXTINF:-1 tvg-logo="" group-title="XSEE",NBA
+https://devds.site/api/indihoy/hls.m3u8?ch=nba
+
+#EXTINF:-1 tvg-logo="" group-title="XSEE",TVN MOVIES
+https://devds.site/api/indihoy/hls.m3u8?ch=tvnmovies
+
+#EXTINF:-1 tvg-logo="" group-title="XSEE",TVN
+https://devds.site/api/indihoy/hls.m3u8?ch=tvn
+
+#EXTINF:-1 tvg-logo="" group-title="XSEE",GALAXY PREMIUM
+https://devds.site/api/indihoy/hls.m3u8?ch=galaxypremium
+
+#EXTINF:-1 tvg-logo="" group-title="XSEE",GALAXY
+https://devds.site/api/indihoy/hls.m3u8?ch=galaxy
+
+#EXTINF:-1 tvg-logo="" group-title="XSEE",HITS MOVIE
+https://devds.site/api/indihoy/hls.m3u8?ch=hitsmovie
+
+#EXTINF:-1 tvg-logo="" group-title="XSEE",HITS
+https://devds.site/api/indihoy/hls.m3u8?ch=hits
+
+#EXTINF:-1 tvg-logo="" group-title="XSEE",FLIK
+https://devds.site/api/indihoy/hls.m3u8?ch=flik
+
+#EXTINF:-1 tvg-logo="" group-title="XSEE",TLC
+https://devds.site/api/indihoy/hls.m3u8?ch=tlc
+
+#EXTINF:-1 tvg-logo="" group-title="XSEE",MY KIDS
+https://devds.site/api/indihoy/hls.m3u8?ch=mykids
+
+#EXTINF:-1 tvg-logo="" group-title="XSEE",DISCOVERY
+https://devds.site/api/indihoy/hls.m3u8?ch=disco
+
+#EXTINF:-1 tvg-logo="" group-title="XSEE",TECH STORM
+https://devds.site/api/indihoy/hls.m3u8?ch=techstorm
+
+#EXTINF:-1 tvg-logo="" group-title="XSEE",HGTV
+https://devds.site/api/indihoy/hls.m3u8?ch=hgtv
+
+#EXTINF:-1 tvg-logo="" group-title="XSEE",ATV
+https://devds.site/api/indihoy/hls.m3u8?ch=atv
+
+#EXTINF:-1 tvg-logo="" group-title="XSEE",DAAI TV
+https://devds.site/api/indihoy/hls.m3u8?ch=daaitv
+
+#EXTINF:-1 tvg-logo="" group-title="XSEE",INDONESIANA
+https://devds.site/api/indihoy/hls.m3u8?ch=indonesiana
+
+
 ############################################## RIDIO ############################################
 
 

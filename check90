@@ -247,6 +247,12 @@ https://ilike.squdinc.workers.dev/play.m3u8?id=204&key=vidio&type=hls
 #EXTINF:-1 tvg-logo="" group-title="BOX TV",Net
 https://ilike.squdinc.workers.dev/play.m3u8?id=875&key=vidio&type=hls
 
+#EXTINF:-1 tvg-logo="" group-title="BOX TV",GTV
+https://anv-livechannel-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="BOX TV",MNCTV
+https://anv-livechannel-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="BOX TV",ANTV
 https://ilike.squdinc.workers.dev/play.m3u8?id=782&key=vidio&type=hls
 

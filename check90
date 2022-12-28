@@ -238,6 +238,8 @@ https://ilike.squdinc.workers.dev/play.m3u8?id=7619&key=vidio&type=hls
 #EXTINF:-1 tvg-logo="" group-title="BOX TV",Indosiar
 https://ilike.squdinc.workers.dev/play.m3u8?id=205&key=vidio&type=hls
 
+#EXTINF:-1 tvg-logo="" group-title="BOX TV",Rcti
+https://anv-livechannel-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="BOX TV",Sctv
 https://ilike.squdinc.workers.dev/play.m3u8?id=204&key=vidio&type=hls
@@ -256,6 +258,9 @@ https://ilike.squdinc.workers.dev/play.m3u8?id=734&key=vidio&type=hls
 
 #EXTINF:-1 tvg-logo="" group-title="BOX TV",Moji
 https://ilike.squdinc.workers.dev/play.m3u8?id=206&key=vidio&type=hls
+
+#EXTINF:-1 tvg-logo="" group-title="BOX TV",Inews
+https://anv-livechannel-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="BOX TV",RANS
 https://ilike.squdinc.workers.dev/play.m3u8?id=8241&key=vidio&type=hls

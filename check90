@@ -131,7 +131,7 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 ############################################## BGL #########################################
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",Indosiar
-https://tvkitaproject.my.id/vidio/indosiar.m3u8
+https://tvkitaproject.my.id/bysistem/indosiar.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",Indosiar 2
 https://devds.site/api/v.m3u8?ch=indosiar
@@ -140,7 +140,7 @@ https://devds.site/api/v.m3u8?ch=indosiar
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",SCTV 
-https://tvkitaproject.my.id/vidio/sctv.m3u8
+https://tvkitaproject.my.id/bysistem/sctv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",SCTV 2
 https://devds.site/api/v.m3u8?ch=sctv
@@ -148,23 +148,23 @@ https://devds.site/api/v.m3u8?ch=sctv
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",SCTV 3
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",NET TV
-https://k.ksa.my.id/ksa.m3u8?a=5df81fef629ea749jklm&b=b162fba1d223a5b01234&c=0c906a498274137f5678
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",NET
+https://devds.site/api/v.m3u8?ch=net
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",Moji
-https://tvkitaproject.my.id/vidio/moji.m3u8
+https://tvkitaproject.my.id/bysistem/moji.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL", RCTI
-https://vcdn2.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
+https://anv-livechannel-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL", MNCTV
-https://vcdn2.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
+https://anv-livechannel-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",GTV
-https://vcdn2.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8
+https://anv-livechannel-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",INEWS
-https://vcdn2.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=6-mp4a_96000=2.m3u8
+https://anv-livechannel-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",METRO TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8

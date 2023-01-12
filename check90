@@ -228,162 +228,175 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 
 ################################################# BOX TV #########################################
 
-#EXTINF:-1 tvg-logo="" group-title="BOX TV",iRadio
-https://ilike.squdinc.workers.dev/play.m3u8?id=7057&key=vidio&type=hls
 
-#EXTINF:-1 tvg-logo="" group-title="BOX TV",Musica
-https://ilike.squdinc.workers.dev/play.m3u8?id=7619&key=vidio&type=hls
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Indosiar
+http://online-teve.xp3.biz/vidio/205.m3u8
 
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Sctv
+http://online-teve.xp3.biz/vidio/204.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BOX TV",Indosiar
-https://ilike.squdinc.workers.dev/play.m3u8?id=205&key=vidio&type=hls
-
-#EXTINF:-1 tvg-logo="" group-title="BOX TV",Rcti
-https://anv-livechannel-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="BOX TV",Sctv
-https://ilike.squdinc.workers.dev/play.m3u8?id=204&key=vidio&type=hls
-
-#EXTINF:-1 tvg-logo="" group-title="BOX TV",Net
-https://ilike.squdinc.workers.dev/play.m3u8?id=875&key=vidio&type=hls
-
-#EXTINF:-1 tvg-logo="" group-title="BOX TV",GTV
-https://anv-livechannel-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="BOX TV",MNCTV
-https://anv-livechannel-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="BOX TV",ANTV
-https://ilike.squdinc.workers.dev/play.m3u8?id=782&key=vidio&type=hls
-
-#EXTINF:-1 tvg-logo="" group-title="BOX TV",Trans tv
-https://ilike.squdinc.workers.dev/play.m3u8?id=733&key=vidio&type=hls
-
-#EXTINF:-1 tvg-logo="" group-title="BOX TV",Trans 7
-https://ilike.squdinc.workers.dev/play.m3u8?id=734&key=vidio&type=hls
-
-#EXTINF:-1 tvg-logo="" group-title="BOX TV",Moji
-https://ilike.squdinc.workers.dev/play.m3u8?id=206&key=vidio&type=hls
-
-#EXTINF:-1 tvg-logo="" group-title="BOX TV",Inews
-https://anv-livechannel-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="BOX TV",RANS
-https://ilike.squdinc.workers.dev/play.m3u8?id=8241&key=vidio&type=hls
-
-#EXTINF:-1 tvg-logo="" group-title="BOX TV",Rtv
-https://ilike.squdinc.workers.dev/play.m3u8?id=1561&key=vidio&type=hls
-
-#EXTINF:-1 tvg-logo="" group-title="BOX TV",Mentari TV
-https://ilike.squdinc.workers.dev/play.m3u8?id=8237&key=vidio&type=hls
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Moji
+http://online-teve.xp3.biz/vidio/206.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="BOX TV",Citra drama
-https://ilike.squdinc.workers.dev/play.m3u8?id=6401&key=vidio&type=hls
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Net
+http://online-teve.xp3.biz/vidio/875.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BOX TV",Citra entertainment
-https://ilike.squdinc.workers.dev/play.m3u8?id=6402&key=vidio&type=hls
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",ANTV
+http://online-teve.xp3.biz/vidio/782.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BOX TV",Citra bioskop
-https://ilike.squdinc.workers.dev/play.m3u8?id=6684&key=vidio&type=hls
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Trans.m3u8tv
+http://online-teve.xp3.biz/vidio/733.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BOX TV",Kompastv
-https://ilike.squdinc.workers.dev/play.m3u8?id=874&key=vidio&type=hls
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Trans.m3u87
+http://online-teve.xp3.biz/vidio/734.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BOX TV",Metro tv
-https://ilike.squdinc.workers.dev/play.m3u8?id=777&key=vidio&type=hls
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Moji
+http://online-teve.xp3.biz/vidio/206.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BOX TV",TV One
-https://ilike.squdinc.workers.dev/play.m3u8?id=783&key=vidio&type=hls
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",RANS
+http://online-teve.xp3.biz/vidio/8241.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BOX TV",Tvri
-https://ilike.squdinc.workers.dev/play.m3u8?id=6441&key=vidio&type=hls
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Rtv
+http://online-teve.xp3.biz/vidio/1561.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BOX TV",JTV
-https://ilike.squdinc.workers.dev/play.m3u8?id=9713&key=vidio&type=hls
-
-#EXTINF:-1 tvg-logo="" group-title="BOX TV",JPM
-https://ilike.squdinc.workers.dev/play.m3u8?id=9714&key=vidio&type=hls
-
-#EXTINF:-1 tvg-logo="" group-title="BOX TV",DAAI TV
-https://ilike.squdinc.workers.dev/play.m3u8?id=6482&key=vidio&type=hls
-
-#EXTINF:-1 tvg-logo="" group-title="BOX TV",Berita satu
-https://ilike.squdinc.workers.dev/play.m3u8?id=6165&key=vidio&type=hls
-
-#EXTINF:-1 tvg-logo="" group-title="BOX TV",Nusantara TV
-https://ilike.squdinc.workers.dev/play.m3u8?id=7432&key=vidio&type=hls
-
-#EXTINF:-1 tvg-logo="" group-title="BOX TV",Citra dangdut
-https://ilike.squdinc.workers.dev/play.m3u8?id=6587&key=vidio&type=hls
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Mentari.m3u8TV
+http://online-teve.xp3.biz/vidio/8237.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="BOX TV",Citra muslim
-https://ilike.squdinc.workers.dev/play.m3u8?id=6678&key=vidio&type=hls
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Citra.m3u8drama
+http://online-teve.xp3.biz/vidio/6401.m3u8
+
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Citra.m3u8entertainment
+http://online-teve.xp3.biz/vidio/6402.m3u8
+
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Citra.m3u8bioskop
+http://online-teve.xp3.biz/vidio/6684.m3u8
+
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Kompastv
+http://online-teve.xp3.biz/vidio/874.m3u8
+
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Metro.m3u8tv
+http://online-teve.xp3.biz/vidio/777.m3u8
+
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",TV.m3u8One
+http://online-teve.xp3.biz/vidio/783.m3u8
+
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Tvri
+http://online-teve.xp3.biz/vidio/6441.m3u8
+
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",JTV
+http://online-teve.xp3.biz/vidio/9713.m3u8
+
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",JPM
+http://online-teve.xp3.biz/vidio/9714.m3u8
+
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",DAAI.m3u8TV
+http://online-teve.xp3.biz/vidio/6482.m3u8
+
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Berita.m3u8satu
+http://online-teve.xp3.biz/vidio/6165.m3u8
+
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Nusantara.m3u8TV
+http://online-teve.xp3.biz/vidio/7432.m3u8
+
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Citra.m3u8dangdut
+http://online-teve.xp3.biz/vidio/6587.m3u8
+
+
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Citra.m3u8muslim
+http://online-teve.xp3.biz/vidio/6678.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="BOX TV",LFCTV
-https://ilike.squdinc.workers.dev/play.m3u8?id=7916&key=vidio&type=hls
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",LFCTV
+http://online-teve.xp3.biz/vidio/7916.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BOX TV",Tvedukasi
-https://ilike.squdinc.workers.dev/play.m3u8?id=6838&key=vidio&type=hls
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Tvedukasi
+http://online-teve.xp3.biz/vidio/6838.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BOX TV",Jaktv
-https://ilike.squdinc.workers.dev/play.m3u8?id=5415&key=vidio&type=hls
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Jaktv
+http://online-teve.xp3.biz/vidio/5415.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BOX TV",Ochannel
-https://ilike.squdinc.workers.dev/play.m3u8?id=206&key=vidio&type=hls
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Ochannel
+http://online-teve.xp3.biz/vidio/206.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BOX TV",Tempo
-https://ilike.squdinc.workers.dev/play.m3u8?id=7946&key=vidio&type=hls
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Tempo
+http://online-teve.xp3.biz/vidio/7946.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BOX TV",Seatoday
-https://ilike.squdinc.workers.dev/play.m3u8?id=7687&key=vidio&type=hls
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Seatoday
+http://online-teve.xp3.biz/vidio/7687.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BOX TV",Abc aus
-https://ilike.squdinc.workers.dev/play.m3u8?id=7150&key=vidio&type=hls
-
-#EXTINF:-1 tvg-logo="" group-title="BOX TV",DW TV
-https://ilike.squdinc.workers.dev/play.m3u8?id=5075&key=vidio&type=hls
-
-#EXTINF:-1 tvg-logo="" group-title="BOX TV",Aljazeera
-https://ilike.squdinc.workers.dev/play.m3u8?id=6410&key=vidio&type=hls
-
-#EXTINF:-1 tvg-logo="" group-title="BOX TV",Euronews
-https://ilike.squdinc.workers.dev/play.m3u8?id=6412&key=vidio&type=hls
-
-#EXTINF:-1 tvg-logo="" group-title="BOX TV",Ajwa TV
-https://ilike.squdinc.workers.dev/play.m3u8?id=7464&key=vidio&type=hls
-
-#EXTINF:-1 tvg-logo="" group-title="BOX TV",Quran TV
-https://ilike.squdinc.workers.dev/play.m3u8?id=6852&key=vidio&type=hls
-
-#EXTINF:-1 tvg-logo="" group-title="BOX TV",Reformed21
-https://ilike.squdinc.workers.dev/play.m3u8?id=6853&key=vidio&type=hls
-
-#EXTINF:-1 tvg-logo="" group-title="BOX TV",Uchannel
-https://ilike.squdinc.workers.dev/play.m3u8?id=6898&key=vidio&type=hls
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Abc.m3u8aus
+http://online-teve.xp3.biz/vidio/7150.m3u8
 
 
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",DW.m3u8TV
+http://online-teve.xp3.biz/vidio/5075.m3u8
 
-################################################ KULKA ############################################
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Aljazeera
+http://online-teve.xp3.biz/vidio/6410.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="KULKA",HBO
-https://tvkitaproject.my.id/hbo/index.m3u8?id=hbohd
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="KULKA",HBO Family
-https://tvkitaproject.my.id/hbo/index.m3u8?id=famhd
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="KULKA",HBO HITS
-https://tvkitaproject.my.id/hbo/index.m3u8?id=hitshd
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="KULKA",HBO SIGNATURE
-https://tvkitaproject.my.id/hbo/index.m3u8?id=sighd
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="KULKA",CINEMAX
-https://tvkitaproject.my.id/hbo/index.m3u8?id=maxhd
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Euronews
+http://online-teve.xp3.biz/vidio/6412.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="KULKA",&FLIX
-https://tvkitaproject.my.id/zee/index.php?c=0-9-channel_2105335046
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="KULKA",&PRIVE
-https://tvkitaproject.my.id/zee/index.php?c=0-9-priv?hd
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Ajwa.m3u8TV
+http://online-teve.xp3.biz/vidio/7464.m3u8
+
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Quran.m3u8TV
+http://online-teve.xp3.biz/vidio/6852.m3u8
+
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Reformed21
+http://online-teve.xp3.biz/vidio/6853.m3u8
+
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Uchannel
+http://online-teve.xp3.biz/vidio/6898.m3u8
+
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",iRadio
+http://online-teve.xp3.biz/vidio/7057.m3u8
+
+
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Zomoo
+http://online-teve.xp3.biz/vidio/6533.m3u8
+
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Zing
+http://online-teve.xp3.biz/vidio/6747.m3u8
+
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Davinci
+http://online-teve.xp3.biz/vidio/6549.m3u8
+
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Hip.m3u8hore
+http://online-teve.xp3.biz/vidio/7052.m3u8
+
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Horee
+http://online-teve.xp3.biz/vidio/6397.m3u8
+
+
+
+
+
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Mytv
+http://online-teve.xp3.biz/vidio/6711.m3u8
+
+
+
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Tvn
+http://online-teve.xp3.biz/vidio/6362.m3u8
+
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Arirang
+http://online-teve.xp3.biz/vidio/6784.m3u8
+
+
+
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Champion.m3u8TV1
+http://online-teve.xp3.biz/vidio/6685.m3u8
+
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Champion.m3u8TV2
+http://online-teve.xp3.biz/vidio/6686.m3u8
+
+#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Champion.m3u8TV3
+http://online-teve.xp3.biz/vidio/6786.m3u8
+
 
 ############################################## TEN TV ############################################
 

@@ -622,6 +622,79 @@ https://devds.site/api/indihoy/hls.m3u8?ch=daaitv
 #EXTINF:-1 tvg-logo="" group-title="XSEE",INDONESIANA
 https://devds.site/api/indihoy/hls.m3u8?ch=indonesiana
 
+############################################### DEVID ########################################
+
+
+#EXTINF:-1 tvg-logo="" group-title="Devid",iRadio
+https://devds.site/api/v.m3u8?ch=iradio
+
+#EXTINF:-1 tvg-logo="" group-title="Devid",Indosiar
+https://devds.site/api/v.m3u8?ch=indosiar
+
+
+#EXTINF:-1 tvg-logo="" group-title="Devid",Sctv
+https://devds.site/api/v.m3u8?ch=sctv
+
+#EXTINF:-1 tvg-logo="" group-title="Devid",Net
+https://devds.site/api/v.m3u8?ch=net
+
+#EXTINF:-1 tvg-logo="" group-title="Devid",ANTV
+https://devds.site/api/v.m3u8?ch=antv
+
+#EXTINF:-1 tvg-logo="" group-title="Devid",Trans tv
+https://devds.site/api/v.m3u8?ch=transtv
+
+#EXTINF:-1 tvg-logo="" group-title="Devid",Trans 7
+https://devds.site/api/v.m3u8?ch=trans7
+
+
+#EXTINF:-1 tvg-logo="" group-title="Devid",Moji
+https://devds.site/api/v.m3u8?ch=moji
+
+
+#EXTINF:-1 tvg-logo="" group-title="Devid",RANS
+https://devds.site/api/v.m3u8?ch=rans
+
+#EXTINF:-1 tvg-logo="" group-title="Devid",Rtv
+https://devds.site/api/v.m3u8?ch=rtv
+
+#EXTINF:-1 tvg-logo="" group-title="Devid",Mentari TV
+https://devds.site/api/v.m3u8?ch=mentari
+
+
+#EXTINF:-1 tvg-logo="" group-title="Devid",Metro tv
+https://devds.site/api/v.m3u8?ch=metrotv
+
+#EXTINF:-1 tvg-logo="" group-title="Devid",TV One
+https://devds.site/api/v.m3u8?ch=tvone
+
+#EXTINF:-1 tvg-logo="" group-title="Devid",Nusantara TV
+https://devds.site/api/v.m3u8?ch=nusantara
+
+#EXTINF:-1 tvg-logo="" group-title="Devid",Kompastv
+https://devds.site/api/v.m3u8?ch=kompas
+
+
+#EXTINF:-1 tvg-logo="" group-title="Devid",Tempo
+https://devds.site/api/v.m3u8?ch=tempo
+
+
+#EXTINF:-1 tvg-logo="" group-title="Devid",Tvri
+https://devds.site/api/v.m3u8?ch=tvri
+
+#EXTINF:-1 tvg-logo="" group-title="Devid",JTV
+https://devds.site/api/v.m3u8?ch=jtv
+
+#EXTINF:-1 tvg-logo="" group-title="Devid",JPM
+https://devds.site/api/v.m3u8?ch=jpm
+
+
+#EXTINF:-1 tvg-logo="" group-title="Devid",Seatoday
+https://devds.site/api/v.m3u8?ch=sea
+
+#EXTINF:-1 tvg-logo="" group-title="Devid",DW TV
+https://devds.site/api/v.m3u8?ch=dw
+
 
 ############################################## RIDIO ############################################
 

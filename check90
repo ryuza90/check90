@@ -1391,8 +1391,8 @@ http://playlist.urfan.web.id/qwr9ew/s/s27/01.m3u8
 
 
 ##################################################### RADIO #######################################################
-
-
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/Bendera/Indonesia.png" group-title="Radio", Hitz
+https://github.com/AqFad2811/RadioYTLive/raw/main/Hitz.m3u8
 #EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/Bendera/Indonesia.png" group-title="Radio", I-RADIO
 http://stream.radiojar.com/4ywdgup3bnzuv
 #EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/Bendera/Indonesia.png" group-title="Radio",Hitz FM

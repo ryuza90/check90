@@ -229,172 +229,172 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 ################################################# BOX TV #########################################
 
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Indosiar
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Indosiar
 http://online-teve.xp3.biz/vidio/205.m3u8
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Sctv
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Sctv
 http://online-teve.xp3.biz/vidio/204.m3u8
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Moji
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Moji
 http://online-teve.xp3.biz/vidio/206.m3u8
 
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Net
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Net
 http://online-teve.xp3.biz/vidio/875.m3u8
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",ANTV
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",ANTV
 http://online-teve.xp3.biz/vidio/782.m3u8
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Trans.m3u8tv
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Trans.m3u8tv
 http://online-teve.xp3.biz/vidio/733.m3u8
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Trans.m3u87
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Trans.m3u87
 http://online-teve.xp3.biz/vidio/734.m3u8
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Moji
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Moji
 http://online-teve.xp3.biz/vidio/206.m3u8
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",RANS
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",RANS
 http://online-teve.xp3.biz/vidio/8241.m3u8
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Rtv
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Rtv
 http://online-teve.xp3.biz/vidio/1561.m3u8
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Mentari.m3u8TV
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Mentari.m3u8TV
 http://online-teve.xp3.biz/vidio/8237.m3u8
 
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Citra.m3u8drama
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Citra.m3u8drama
 http://online-teve.xp3.biz/vidio/6401.m3u8
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Citra.m3u8entertainment
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Citra.m3u8entertainment
 http://online-teve.xp3.biz/vidio/6402.m3u8
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Citra.m3u8bioskop
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Citra.m3u8bioskop
 http://online-teve.xp3.biz/vidio/6684.m3u8
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Kompastv
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Kompastv
 http://online-teve.xp3.biz/vidio/874.m3u8
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Metro.m3u8tv
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Metro.m3u8tv
 http://online-teve.xp3.biz/vidio/777.m3u8
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",TV.m3u8One
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",TV.m3u8One
 http://online-teve.xp3.biz/vidio/783.m3u8
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Tvri
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Tvri
 http://online-teve.xp3.biz/vidio/6441.m3u8
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",JTV
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",JTV
 http://online-teve.xp3.biz/vidio/9713.m3u8
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",JPM
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",JPM
 http://online-teve.xp3.biz/vidio/9714.m3u8
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",DAAI.m3u8TV
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",DAAI.m3u8TV
 http://online-teve.xp3.biz/vidio/6482.m3u8
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Berita.m3u8satu
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Berita.m3u8satu
 http://online-teve.xp3.biz/vidio/6165.m3u8
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Nusantara.m3u8TV
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Nusantara.m3u8TV
 http://online-teve.xp3.biz/vidio/7432.m3u8
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Citra.m3u8dangdut
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Citra.m3u8dangdut
 http://online-teve.xp3.biz/vidio/6587.m3u8
 
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Citra.m3u8muslim
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Citra.m3u8muslim
 http://online-teve.xp3.biz/vidio/6678.m3u8
 
 
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",LFCTV
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",LFCTV
 http://online-teve.xp3.biz/vidio/7916.m3u8
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Tvedukasi
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Tvedukasi
 http://online-teve.xp3.biz/vidio/6838.m3u8
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Jaktv
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Jaktv
 http://online-teve.xp3.biz/vidio/5415.m3u8
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Ochannel
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Ochannel
 http://online-teve.xp3.biz/vidio/206.m3u8
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Tempo
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Tempo
 http://online-teve.xp3.biz/vidio/7946.m3u8
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Seatoday
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Seatoday
 http://online-teve.xp3.biz/vidio/7687.m3u8
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Abc.m3u8aus
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Abc.m3u8aus
 http://online-teve.xp3.biz/vidio/7150.m3u8
 
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",DW.m3u8TV
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",DW.m3u8TV
 http://online-teve.xp3.biz/vidio/5075.m3u8
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Aljazeera
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Aljazeera
 http://online-teve.xp3.biz/vidio/6410.m3u8
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Euronews
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Euronews
 http://online-teve.xp3.biz/vidio/6412.m3u8
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Ajwa.m3u8TV
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Ajwa.m3u8TV
 http://online-teve.xp3.biz/vidio/7464.m3u8
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Quran.m3u8TV
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Quran.m3u8TV
 http://online-teve.xp3.biz/vidio/6852.m3u8
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Reformed21
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Reformed21
 http://online-teve.xp3.biz/vidio/6853.m3u8
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Uchannel
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Uchannel
 http://online-teve.xp3.biz/vidio/6898.m3u8
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",iRadio
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",iRadio
 http://online-teve.xp3.biz/vidio/7057.m3u8
 
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Zomoo
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Zomoo
 http://online-teve.xp3.biz/vidio/6533.m3u8
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Zing
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Zing
 http://online-teve.xp3.biz/vidio/6747.m3u8
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Davinci
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Davinci
 http://online-teve.xp3.biz/vidio/6549.m3u8
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Hip.m3u8hore
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Hip.m3u8hore
 http://online-teve.xp3.biz/vidio/7052.m3u8
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Horee
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Horee
 http://online-teve.xp3.biz/vidio/6397.m3u8
 
 
 
 
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Mytv
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Mytv
 http://online-teve.xp3.biz/vidio/6711.m3u8
 
 
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Tvn
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Tvn
 http://online-teve.xp3.biz/vidio/6362.m3u8
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Arirang
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Arirang
 http://online-teve.xp3.biz/vidio/6784.m3u8
 
 
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Champion.m3u8TV1
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Champion.m3u8TV1
 http://online-teve.xp3.biz/vidio/6685.m3u8
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Champion.m3u8TV2
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Champion.m3u8TV2
 http://online-teve.xp3.biz/vidio/6686.m3u8
 
-#EXTINF:-1.m3u8tvg-logo="".m3u8group-title="BOX.m3u8TV",Champion.m3u8TV3
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Champion.m3u8TV3
 http://online-teve.xp3.biz/vidio/6786.m3u8
 
 

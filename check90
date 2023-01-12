@@ -229,172 +229,174 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 ################################################# BOX TV #########################################
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Indosiar
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Indosiar
 http://online-teve.xp3.biz/vidio/205.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Sctv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Sctv
 http://online-teve.xp3.biz/vidio/204.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Moji
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Moji
 http://online-teve.xp3.biz/vidio/206.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Net
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Net
 http://online-teve.xp3.biz/vidio/875.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",ANTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",ANTV
 http://online-teve.xp3.biz/vidio/782.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Trans.m3u8tv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Trans tv
 http://online-teve.xp3.biz/vidio/733.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Trans.m3u87
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Trans 7
 http://online-teve.xp3.biz/vidio/734.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Moji
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Moji
 http://online-teve.xp3.biz/vidio/206.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",RANS
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",RANS
 http://online-teve.xp3.biz/vidio/8241.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Rtv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Rtv
 http://online-teve.xp3.biz/vidio/1561.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Mentari.m3u8TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Mentari TV
 http://online-teve.xp3.biz/vidio/8237.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Citra.m3u8drama
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Citra drama
 http://online-teve.xp3.biz/vidio/6401.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Citra.m3u8entertainment
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Citra entertainment
 http://online-teve.xp3.biz/vidio/6402.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Citra.m3u8bioskop
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Citra bioskop
 http://online-teve.xp3.biz/vidio/6684.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Kompastv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Kompastv
 http://online-teve.xp3.biz/vidio/874.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Metro.m3u8tv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Metro tv
 http://online-teve.xp3.biz/vidio/777.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",TV.m3u8One
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",TV One
 http://online-teve.xp3.biz/vidio/783.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Tvri
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Tvri
 http://online-teve.xp3.biz/vidio/6441.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",JTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",JTV
 http://online-teve.xp3.biz/vidio/9713.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",JPM
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",JPM
 http://online-teve.xp3.biz/vidio/9714.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",DAAI.m3u8TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",DAAI 
 http://online-teve.xp3.biz/vidio/6482.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Berita.m3u8satu
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Berita satu
 http://online-teve.xp3.biz/vidio/6165.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Nusantara.m3u8TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Nusantara TV
 http://online-teve.xp3.biz/vidio/7432.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Citra.m3u8dangdut
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Citra dangdut
 http://online-teve.xp3.biz/vidio/6587.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Citra.m3u8muslim
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Citra muslim
 http://online-teve.xp3.biz/vidio/6678.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",LFCTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",LFCTV
 http://online-teve.xp3.biz/vidio/7916.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Tvedukasi
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Tvedukasi
 http://online-teve.xp3.biz/vidio/6838.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Jaktv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Jaktv
 http://online-teve.xp3.biz/vidio/5415.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Ochannel
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Ochannel
 http://online-teve.xp3.biz/vidio/206.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Tempo
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Tempo
 http://online-teve.xp3.biz/vidio/7946.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Seatoday
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Seatoday
 http://online-teve.xp3.biz/vidio/7687.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Abc.m3u8aus
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Abc aus
 http://online-teve.xp3.biz/vidio/7150.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",DW.m3u8TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",DW 
 http://online-teve.xp3.biz/vidio/5075.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Aljazeera
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Aljazeera
 http://online-teve.xp3.biz/vidio/6410.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Euronews
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Euronews
 http://online-teve.xp3.biz/vidio/6412.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Ajwa.m3u8TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",AjwaTV
 http://online-teve.xp3.biz/vidio/7464.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Quran.m3u8TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Quran TV
 http://online-teve.xp3.biz/vidio/6852.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Reformed21
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Reformed21
 http://online-teve.xp3.biz/vidio/6853.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Uchannel
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Uchannel
 http://online-teve.xp3.biz/vidio/6898.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",iRadio
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",iRadio
 http://online-teve.xp3.biz/vidio/7057.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Zomoo
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Zomoo
 http://online-teve.xp3.biz/vidio/6533.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Zing
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Zing
 http://online-teve.xp3.biz/vidio/6747.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Davinci
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Davinci
 http://online-teve.xp3.biz/vidio/6549.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Hip.m3u8hore
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Hip hore
 http://online-teve.xp3.biz/vidio/7052.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Horee
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Horee
 http://online-teve.xp3.biz/vidio/6397.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Mytv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Mytv
 http://online-teve.xp3.biz/vidio/6711.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Tvn
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Tvn
 http://online-teve.xp3.biz/vidio/6362.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Arirang
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Arirang
 http://online-teve.xp3.biz/vidio/6784.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Champion.m3u8TV1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Champion TV1
 http://online-teve.xp3.biz/vidio/6685.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Champion.m3u8TV2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Champion TV2
 http://online-teve.xp3.biz/vidio/6686.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BOX",Champion.m3u8TV3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Champion TV3
 http://online-teve.xp3.biz/vidio/6786.m3u8
 
 

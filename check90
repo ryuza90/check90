@@ -1505,162 +1505,174 @@ http://210.210.155.35/session/c8395074-3402-11ed-ad35-b82a72d63267/x6bnqe/s/s37/
 http://210.210.155.37/session/0cb075de-3403-11ed-ad35-b82a72d63267/x6bnqe/s/s36/S1/mnf.m3u8
 
 
-########################################## DENS ######################################################
+########################################## DENSU ######################################################
 
 
-#EXTINF:-1 group-title="DENZ",INDOSIAR
-http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
-#EXTINF:-1 group-title="DENZ",SCTV
-http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
-#EXTINF:-1 group-title="DENZ",TRANSTV
-http://playlist.urfan.web.id/qwr9ew/s/s05/01.m3u8
-#EXTINF:-1 group-title="DENZ",TRANS7
-http://playlist.urfan.web.id/uq2663/h/h11/01.m3u8
+#EXTINF:-1 group-title="Densu",Indosiar
+http://210.210.155.35/session/78c0c716-a08b-11ed-aeaf-b82a72d63267/qwr9ew/s/s04/01.m3u8
 
-#EXTINF:-1 group-title="DENZ",NETTV
-http://playlist.urfan.web.id/qwr9ew/s/s08/01.m3u8
-#EXTINF:-1 group-title="DENZ",RTV
-http://playlist.urfan.web.id/dr9445/h/h10/02.m3u8
+#EXTINF:-1 group-title="Densu",antv
+http://210.210.155.35/session/61a5c450-a08b-11ed-aeaf-b82a72d63267/qwr9ew/s/s07/01.m3u8
 
-#EXTINF:-1 group-title="DENZ",ANTV
-http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8
-#EXTINF:-1 group-title="DENZ",KOMPASTV
-http://playlist.urfan.web.id/qwr9ew/s/s104/01.m3u8
-#EXTINF:-1 group-title="DENZ",TVONE
-http://playlist.urfan.web.id/qwr9ew/s/s105/01.m3u8
-#EXTINF:-1 group-title="DENZ",METROTV
-http://playlist.urfan.web.id/uq2663/h/h12/01.m3u8
-#EXTINF:-1 group-title="DENZ",TVRI
-http://playlist.urfan.web.id/qwr9ew/s/s11/01.m3u8
+#EXTINF:-1 group-title="Densu",NET
+http://210.210.155.37/session/c8a265d2-a08b-11ed-aeaf-b82a72d63267/qwr9ew/s/s08/01.m3u8
 
-#EXTINF:-1 group-title="DENZ",MCA
-http://playlist.urfan.web.id/uq2663/h/h193/index.m3u8
-#EXTINF:-1 group-title="DENZ",MFC
-http://playlist.urfan.web.id/uq2663/h/h194/index.m3u8
-#EXTINF:-1 group-title="DENZ",MCE
-http://playlist.urfan.web.id/uq2663/h/h18/01.m3u8
-#EXTINF:-1 group-title="DENZ",MCN
-http://playlist.urfan.web.id/uq2663/h/h192/index.m3u8
-#EXTINF:-1 group-title="DENZ",PLAY
-http://playlist.urfan.web.id/x6bnqe/s/s37/S4/mnf.m3u8
-#EXTINF:-1 group-title="DENZ",DFC
-http://playlist.urfan.web.id/x6bnqe/s/s50/live.m3u8
-#EXTINF:-1 group-title="DENZ",HITS
-http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
-#EXTINF:-1 group-title="DENZ",AXN
-http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
-#EXTINF:-1 group-title="DENZ",ROCKENTERTAINMENT
-http://playlist.urfan.web.id/dr9445/h/h16/01.m3u8
-#EXTINF:-1 group-title="DENZ",ROCKEXTREME
-http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
-#EXTINF:-1 group-title="DENZ",KIXASIA
-http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
-#EXTINF:-1 group-title="DENZ",GEM
-http://playlist.urfan.web.id/uq2663/h/h19/01.m3u8
-#EXTINF:-1 group-title="DENZ",K+
-http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
-#EXTINF:-1 group-title="DENZ",ONEASIA
-http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
-#EXTINF:-1 group-title="DENZ",TVNASIA
-http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
-#EXTINF:-1 group-title="DENZ",TVNMOVIES
-http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
-#EXTINF:-1 group-title="DENZ",CELESTIALMOVIES
-http://playlist.urfan.web.id/dr9445/h/h14/01.m3u8
-#EXTINF:-1 group-title="DENZ",CCM
-http://playlist.urfan.web.id/qwr9ew/s/s31/01.m3u8
-#EXTINF:-1 group-title="DENZ",ZEEBIOSKOP
-http://playlist.urfan.web.id/qwr9ew/s/s32/01.m3u8
-#EXTINF:-1 group-title="DENZ",THRILL
-http://playlist.urfan.web.id/qwr9ew/s/s34/01.m3u8
-#EXTINF:-1 group-title="DENZ",CINEMAWORLD
-http://playlist.urfan.web.id/dr9445/h/h04/01.m3u8
+#EXTINF:-1 group-title="Densu",SCTV
+http://210.210.155.35/session/e04795f4-a08b-11ed-aeaf-b82a72d63267/qwr9ew/s/s03/01.m3u8
 
-#EXTINF:-1 group-title="DENZ",ANIPLUS
-http://playlist.urfan.web.id/dr9445/h/h02/01.m3u8
-#EXTINF:-1 group-title="DENZ",ANIMAX
-http://playlist.urfan.web.id/dr9445/h/h144/01.m3u8
-#EXTINF:-1 group-title="DENZ",MKIDZ
-http://playlist.urfan.web.id/uq2663/h/h191/index.m3u8
-#EXTINF:-1 group-title="DENZ",TOONKIDZ
-http://playlist.urfan.web.id/x6bnqe/s/s81/01.m3u8
+#EXTINF:-1 group-title="Densu",RTV
+http://210.210.155.35/session/f815cd04-a08b-11ed-8b6a-b82a72d63267/dr9445/h/h10/01.m3u8
+
+#EXTINF:-1 group-title="Densu",TVRI
+http://210.210.155.35/session/07461626-a08c-11ed-aeaf-b82a72d63267/qwr9ew/s/s11/01.m3u8
+
+#EXTINF:-1 group-title="Densu",TVRI Sport
+http://210.210.155.37/session/2169613e-a08c-11ed-aeaf-b82a72d63267/qwr9ew/s/s107/01.m3u8
+
+#EXTINF:-1 group-title="Densu",Moji
+http://210.210.155.35/session/249c8890-a08c-11ed-aeaf-b82a72d63267/qwr9ew/s/s41/01.m3u8
+
+#EXTINF:-1 group-title="Densu",Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1769993429_b1128000_sleng.m3u8
+
+#EXTINF:-1 group-title="Densu",TV One
+http://nonton.wap.sh/id/010.m3u8
+http://210.210.155.35/session/55126558-a08c-11ed-aeaf-b82a72d63267/qwr9ew/s/s105/01.m3u8
+
+#EXTINF:-1 group-title="Densu",JTV
+http://210.210.155.35/session/74ef3de2-a08c-11ed-b03c-b82a72d63267/x6bnqe/s/s91/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="Densu",Kompas TV
+http://210.210.155.35/session/87843d36-a08c-11ed-aeaf-b82a72d63267/qwr9ew/s/s104/01.m3u8
 
 
-#EXTINF:-1 group-title="DENZ",LIFESTYLE
-http://playlist.urfan.web.id/dr9445/h/h28/01.m3u8
-#EXTINF:-1 group-title="DENZ",LEARNING&KNOWLEDGE
-http://playlist.urfan.web.id/x6bnqe/s/s36/S4/mnf.m3u8
-#EXTINF:-1 group-title="DENZ",SHOWBIZ
-http://playlist.urfan.web.id/x6bnqe/s/s35/S4/mnf.m3u8
+#EXTINF:-1 group-title="Densu",Magna TV
+http://210.210.155.35/session/62117e68-a098-11ed-a06a-c81f66f89318/dr9445/h/h24/01.m3u8
 
-#EXTINF:-1 group-title="DENZ",STYLE
-http://playlist.urfan.web.id/dr9445/h/h01/01.m3u8
-#EXTINF:-1 group-title="DENZ",FIGHTSPORTS
-http://playlist.urfan.web.id/dr9445/h/h05/01.m3u8
-#EXTINF:-1 group-title="DENZ",MOTORVISIONTV
-http://playlist.urfan.web.id/uq2663/h/h09/01.m3u8
-#EXTINF:-1 group-title="DENZ",EGGNETWORK
-http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
 
-#EXTINF:-1 group-title="DENZ",BERITASATU
+#EXTINF:-1 group-title="Densu",JAK TV
+http://210.210.155.37/session/0101d114-a08d-11ed-b03c-b82a72d63267/x6bnqe/s/s13/S4/mnf.m3u8
+
+
+#EXTINF:-1 group-title="Densu",JiTV
+http://103.255.15.222:1935/tv/jitv_720p/chunklist_w76725115.m3u8
+
+#EXTINF:-1 group-title="Densu",Elshinta
+http://210.210.155.37/session/27839200-a08d-11ed-aeaf-b82a72d63267/qwr9ew/s/s10/01.m3u8
+
+
+#EXTINF:-1 group-title="Densu",BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-#EXTINF:-1 group-title="DENZ",BERITASATUWORLD
-https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
-#EXTINF:-1 group-title="DENZ",BERITASATUENGLISH
-https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
-#EXTINF:-1 group-title="DENZ",MYTV
-http://playlist.urfan.web.id/x6bnqe/s/s88/S4/mnf.m3u8
-#EXTINF:-1 group-title="DENZ",OCHANNEL
-http://playlist.urfan.web.id/x6bnqe/s/s73/S4/mnf.m3u8
-#EXTINF:-1 group-title="DENZ",JAKTV
-http://playlist.urfan.web.id/x6bnqe/s/s46/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="Densu",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Densu",DAAI TV
+http://210.210.155.35/session/6319c7b2-a08d-11ed-aeaf-b82a72d63267/qwr9ew/s/s13/01.m3u8
 
 
 
+#EXTINF:-1 group-title="Densu",Aniplus
+http://210.210.155.35/session/53895624-a09b-11ed-a06a-c81f66f89318/dr9445/h/h02/01.m3u8
 
-#EXTINF:-1 group-title="DENZ",CNA
-http://playlist.urfan.web.id/uq2663/h/h29/01.m3u8
-#EXTINF:-1 group-title="DENZ",NHKWORLD
-http://playlist.urfan.web.id/uq2663/h/h23/01.m3u8
-#EXTINF:-1 group-title="DENZ",ALJAZEERAENGLISH
-http://playlist.urfan.web.id/qwr9ew/s/s17/01.m3u8
-#EXTINF:-1 group-title="DENZ",TRTWORLD
-http://playlist.urfan.web.id/uq2663/h/h156/S4/mnf.m3u8
-#EXTINF:-1 group-title="DENZ",WION
-http://playlist.urfan.web.id/uq2663/h/h91/S4/mnf.m3u8
-#EXTINF:-1 group-title="DENZ",UA
-http://playlist.urfan.web.id/uq2663/h/h101/S4/mnf.m3u8
-#EXTINF:-1 group-title="DENZ",ALJAZEERA
-http://playlist.urfan.web.id/qwr9ew/s/s16/01.m3u8
-#EXTINF:-1 group-title="DENZ",CCTV4
-http://playlist.urfan.web.id/qwr9ew/s/s19/01.m3u8
-#EXTINF:-1 group-title="DENZ",FRANCE24
-http://playlist.urfan.web.id/qwr9ew/s/s22/01.m3u8
-#EXTINF:-1 group-title="DENZ",TV5MONDE
-http://playlist.urfan.web.id/dr9445/s/s24/01.m3u8
-#EXTINF:-1 group-title="DENZ",DWTV
-http://playlist.urfan.web.id/qwr9ew/s/s26/01.m3u8
-#EXTINF:-1 group-title="DENZ",CGTNDOCUMENTARY
-http://playlist.urfan.web.id/qwr9ew/s/s20/01.m3u8
-#EXTINF:-1 group-title="DENZ",BLOOMBERGTV
-http://playlist.urfan.web.id/dr9445/h/h03/01.m3u8
-#EXTINF:-1 group-title="DENZ",TVKU
-http://103.30.1.14:8080/hls/live.m3u8
-#EXTINF:-1 group-title="DENZ",ADITV
-http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
-#EXTINF:-1 group-title="DENZ",TATV
-https://v2.siar.us/tatv/live.sdp/chunks.m3u8
+#EXTINF:-1 group-title="Densu",HITS MOVIE
+http://210.210.155.35/session/1f525d4e-a099-11ed-a06a-c81f66f89318/dr9445/h/h38/01.m3u8
 
-#EXTINF:-1 group-title="DENZ",DAAITV
-http://playlist.urfan.web.id/qwr9ew/s/s13/01.m3u8
-#EXTINF:-1 group-title="DENZ",ELSHINTATV
-http://playlist.urfan.web.id/qwr9ew/s/s10/01.m3u8
-#EXTINF:-1 group-title="DENZ",RODJATV
-http://playlist.urfan.web.id/qwr9ew/s/s14/01.m3u8
-#EXTINF:-1 group-title="DENZ",QURANTV
-http://playlist.urfan.web.id/qwr9ew/s/s28/01.m3u8
-#EXTINF:-1 group-title="DENZ",SUNNAHTV
-http://playlist.urfan.web.id/qwr9ew/s/s27/01.m3u8
+#EXTINF:-1 group-title="Densu",HITS
+http://210.210.155.35/session/2ccda92e-a099-11ed-a06a-c81f66f89318/dr9445/h/h37/01.m3u8
+
+
+#EXTINF:-1 group-title="Densu",MCN
+http://210.210.155.35/session/081eccc4-a090-11ed-b1c0-b82a72d63267/uq2663/h/h192/index.m3u8
+
+#EXTINF:-1 group-title="Densu",MCE
+http://210.210.155.35/session/271843a0-a08e-11ed-b1c0-b82a72d63267/uq2663/h/h18/01.m3u8
+
+#EXTINF:-1 group-title="Densu",MCA
+http://210.210.155.35/session/8a829008-a08e-11ed-b1c0-b82a72d63267/uq2663/h/h193/index.m3u8
+
+#EXTINF:-1 group-title="Densu",MFC
+http://210.210.155.35/session/6d4bcebe-a08e-11ed-b1c0-b82a72d63267/uq2663/h/h194/index.m3u8
+
+#EXTINF:-1 group-title="Densu",RockEnt
+http://210.210.155.35/session/9b34c91e-a09a-11ed-a06a-c81f66f89318/dr9445/h/h16/01.m3u8
+
+#EXTINF:-1 group-title="Densu",RockAct
+http://210.210.155.35/session/c6557da0-a09a-11ed-a06a-c81f66f89318/dr9445/h/h15/01.m3u8
+
+#EXTINF:-1 group-title="Densu",Cinema World
+http://210.210.155.35/session/f18ce028-a098-11ed-a06a-c81f66f89318/dr9445/h/h04/01.m3u8
+
+#EXTINF:-1 group-title="Densu",Calestial
+http://210.210.155.35/session/fe26f2ec-a098-11ed-a06a-c81f66f89318/dr9445/h/h14/01.m3u8
+
+#EXTINF:-1 group-title="Densu",CCM
+http://210.210.155.35/session/9a115ab4-a08d-11ed-aeaf-b82a72d63267/qwr9ew/s/s31/01.m3u8
+
+
+#EXTINF:-1 group-title="Densu",TVN
+http://210.210.155.35/session/0c5c3a0a-a09b-11ed-a06a-c81f66f89318/dr9445/h/h20/01.m3u8
+
+#EXTINF:-1 group-title="Densu",TVN Movies
+http://210.210.155.35/session/0fec88aa-a09b-11ed-a06a-c81f66f89318/dr9445/h/h21/01.m3u8
+
+
+#EXTINF:-1 group-title="Densu",Thril
+http://210.210.155.35/session/ef03610e-a09a-11ed-991d-c81f66f89318/qwr9ew/s/s34/01.m3u8
+
+#EXTINF:-1 group-title="Densu",Zee Bioskop
+http://210.210.155.35/session/2b4baa9a-a09b-11ed-991d-c81f66f89318/qwr9ew/s/s32/01.m3u8
+
+#EXTINF:-1 group-title="Densu",Fight Sport
+http://210.210.155.35/session/131379be-a099-11ed-a06a-c81f66f89318/dr9445/h/h05/01.m3u8
+
+#EXTINF:-1 group-title="Densu",Knowledge
+http://210.210.155.35/session/d4911008-ec97-11ec-a328-c81f66f89318/x6bnqe/s/s36/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="Densu",K+
+http://210.210.155.35/session/fc8b7274-a08d-11ed-b1c0-b82a72d63267/uq2663/h/h08/02.m3u8
+
+#EXTINF:-1 group-title="Densu",KIX
+http://210.210.155.35/session/bc6ad750-a099-11ed-a06a-c81f66f89318/dr9445/h/h07/01.m3u8
+
+#EXTINF:-1 group-title="Densu",M Kidz
+http://210.210.155.35/session/996f7e46-a08e-11ed-b1c0-b82a72d63267/uq2663/h/h191/index.m3u8
+
+#EXTINF:-1 group-title="Densu",Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 group-title="Densu",Motorvision
+http://210.210.155.35/session/ddbf92c0-a08e-11ed-b1c0-b82a72d63267/uq2663/h/h09/01.m3u8
+
+#EXTINF:-1 group-title="Densu",Motor Racing
+http://210.210.155.37/session/1835481e-a08f-11ed-b1c0-b82a72d63267/uq2663/h/h123/index.m3u8
+
+#EXTINF:-1 group-title="Densu",SPOTV
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8?hdnea=st=1673771355~exp=9007200928512346~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_1/chunklist.m3u8*~hmac=7c259e617ce32e4917bdf375d34803853e4d408f79321cb0261b52473387f98e
+
+#EXTINF:-1 group-title="Densu",SPOTV 2
+http://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8?hdnea=st=1673771308~exp=9007200928512299~acl=/48eee16919834d3b97df1082a649bcfa/*/profile_1/chunklist.m3u8*~hmac=9836fbf2e2aa28fbe40a3cb3c2ccd216fd2ae1af41daf9e135a10efdd1f77fac
+
+#EXTINF:-1 group-title="Densu",Toon Kidz
+http://210.210.155.37/session/de98eb0e-a09a-11ed-99fb-c81f66f89318/x6bnqe/s/s26/index.m3u8
+
+#EXTINF:-1 group-title="Densu",Style
+http://210.210.155.37/session/d2e9a62c-a09a-11ed-a06a-c81f66f89318/dr9445/h/h121/01.m3u8
+
+
+#EXTINF:-1 group-title="Densu",Qwest
+http://210.210.155.37/session/cc4a6db6-a08f-11ed-b1c0-b82a72d63267/uq2663/h/h96/S4/mnf.m3u8
+
+
+#EXTINF:-1 group-title="Densu",BALI TV
+http://210.210.155.35/session/db422890-a08f-11ed-b1c0-b82a72d63267/uq2663/h/h159/S4/mnf.m3u8
+
+
+#EXTINF:-1 group-title="Densu",CGTN
+http://210.210.155.35/session/74db5af6-a08d-11ed-aeaf-b82a72d63267/qwr9ew/s/s20/01.m3u8
+
+#EXTINF:-1 group-title="Densu",Showbiz
+http://210.210.155.37/session/25e38fb2-ec98-11ec-a7a0-c81f66f89318/x6bnqe/s/s35/S4/mnf.m3u8
 
 
 ##################################################### RADIO #######################################################

@@ -956,18 +956,18 @@ http://iptvid.my.id/hmm/maudy90/zsuperman90/transtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="HOME",TRANS7
 http://iptvid.my.id/hmm/maudy90/zsuperman90/trans7.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="HOME",INDOSIAR
-http://iptvid.my.id/hmm/maudy90/zsuperman90/indoseear.m3u8
+http://iptvid.my.id/hmm/maudy90/zsuperman90/indosiar.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="HOME",NET
 http://iptvid.my.id/hmm/maudy90/zsuperman90/net.m3u8 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="HOME",SCTV
-http://iptvid.my.id/hmm/maudy90/zsuperman90/escetepe.m3u8
+http://iptvid.my.id/hmm/maudy90/zsuperman90/sctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="HOME",WARNER
-http://iptvid.my.id/hmm/maudy90/zsuperman90/wrnr.m3u8
+http://iptvid.my.id/hmm/maudy90/zsuperman90/warner.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="HOME",GALAXY
-http://iptvid.my.id/hmm/maudy90/zsuperman90/glx.m3u8
+http://iptvid.my.id/hmm/maudy90/zsuperman90/galaxy.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="HOME",GALAXY PREMIUM
-http://iptvid.my.id/hmm/maudy90/zsuperman90/glxprem.m3u8 
+http://iptvid.my.id/hmm/maudy90/zsuperman90/galaxypremium.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="HOME",AXN
 http://iptvid.my.id/hmm/maudy90/zsuperman90/axn.m3u8
@@ -984,11 +984,11 @@ http://iptvid.my.id/hmm/maudy90/zsuperman90/flik.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="HOME",PARAMOUNT
 http://iptvid.my.id/hmm/maudy90/zsuperman90/paramount.m3u8 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="HOME",MY CINEMA
-http://iptvid.my.id/hmm/maudy90/zsuperman90/mycn.m3u8
+http://iptvid.my.id/hmm/maudy90/zsuperman90/mycinema.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="HOME",MY FAMILY
-http://iptvid.my.id/hmm/maudy90/zsuperman90/myfc.m3u8
+http://iptvid.my.id/hmm/maudy90/zsuperman90/myfamily.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="HOME",MY CINEMA ASIA
-http://iptvid.my.id/hmm/maudy90/zsuperman90/myca.m3u8
+http://iptvid.my.id/hmm/maudy90/zsuperman90/mycinemaasia.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="HOME",RTV
@@ -1047,7 +1047,7 @@ http://iptvid.my.id/hmm/maudy90/zsuperman90/kplus.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="HOME",KIX
 http://iptvid.my.id/hmm/maudy90/zsuperman90/kix.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="HOME",DREAM WORKS
-http://iptvid.my.id/hmm/maudy90/zsuperman90/drmwrk.m3u8
+http://iptvid.my.id/hmm/maudy90/zsuperman90/dreamworks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="HOME",LINGUA
 http://iptvid.my.id/hmm/maudy90/zsuperman90/lingua.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="HOME",EGG
@@ -1057,15 +1057,15 @@ http://iptvid.my.id/hmm/maudy90/zsuperman90/sone.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="HOME",GEM
 http://iptvid.my.id/hmm/maudy90/zsuperman90/sgem.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="HOME",BEINSPORTS 1
-http://iptvid.my.id/hmm/maudy90/zsuperman90/bskunyak1.m3u8 
+http://iptvid.my.id/hmm/maudy90/zsuperman90/bein1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="HOME",BEINSPORTS 2
-http://iptvid.my.id/hmm/maudy90/zsuperman90/bskunyak2.m3u8 
+http://iptvid.my.id/hmm/maudy90/zsuperman90/bein2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="HOME",DISCOVERY
-http://iptvid.my.id/hmm/maudy90/zsuperman90/dsc.m3u8
+http://iptvid.my.id/hmm/maudy90/zsuperman90/disco.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="HOME",CRIME INVES
-http://iptvid.my.id/hmm/maudy90/zsuperman90/crime.m3u8
+http://iptvid.my.id/hmm/maudy90/zsuperman90/crimeinvestigation.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="HOME",KBS WORLD
-http://iptvid.my.id/hmm/maudy90/zsuperman90/kbsw.m3u8
+http://iptvid.my.id/hmm/maudy90/zsuperman90/kbsworld.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="HOME",NATGEO
 http://iptvid.my.id/hmm/maudy90/zsuperman90/natgeo.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="HOME",NATGEO WILD
@@ -1083,13 +1083,13 @@ http://iptvid.my.id/hmm/maudy90/zsuperman90/tvnmovie.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="HOME",HORISON SPORTS
 http://iptvid.my.id/hmm/maudy90/zsuperman90/horisonsport.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="HOME",USEESPORTS 1
-
+http://iptvid.my.id/hmm/maudy90/zsuperman90/useesport.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="HOME",USEESPORTS 2
-http://iptvid.my.id/hmm/maudy90/zsuperman90/useetl2.m3u8 
+http://iptvid.my.id/hmm/maudy90/zsuperman90/useesport2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="HOME",FIGHT SPORTS
 http://iptvid.my.id/hmm/maudy90/zsuperman90/fightsport.m3u8 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="HOME",TECK STORM
-http://iptvid.my.id/hmm/maudy90/zsuperman90/t_storm.m3u8 
+http://iptvid.my.id/hmm/maudy90/zsuperman90/techstorm.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="HOME",TLC
 http://iptvid.my.id/hmm/maudy90/zsuperman90/tlc.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="HOME",MTV

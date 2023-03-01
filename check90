@@ -140,7 +140,7 @@ https://frosty-wood-0912.squdinc.workers.dev/https://insverpro.my.id/play.m3u8?i
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",SCTV 
-https://frosty-wood-0912.squdinc.workers.dev/https://insverpro.my.id/play.m3u8?id=204&key=vidio&type=hls
+http://insverpro.my.id/play.m3u8?id=204&key=vidio&type=hls&username=nurdin
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",SCTV 2
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/204.m3u8

@@ -134,7 +134,7 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 https://m3u-editor.com/live/serve/e46bc590-6c47-11ed-b6c8-d1f1f0221890/706976533.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",Indosiar 2
-https://frosty-wood-0912.squdinc.workers.dev/https://insverpro.my.id/play.m3u8?id=205&key=vidio&type=hls
+http://insverpro.my.id/play.m3u8?id=205&key=vidio&type=hls&username=nurdin
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",Indosiar 3
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
@@ -149,55 +149,55 @@ https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/204.m3u8
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",ANTV
-https://frosty-wood-0912.squdinc.workers.dev/https://insverpro.my.id/play.m3u8?id=782&key=vidio&type=hls
+http://insverpro.my.id/play.m3u8?id=782&key=vidio&type=hls&username=nurdin
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",Moji
-https://frosty-wood-0912.squdinc.workers.dev/https://insverpro.my.id/play.m3u8?id=206&key=vidio&type=hls
+http://insverpro.my.id/play.m3u8?id=206&key=vidio&type=hls&username=nurdin
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",Trans tv
-https://frosty-wood-0912.squdinc.workers.dev/https://insverpro.my.id/play.m3u8?id=733&key=vidio&type=hls
+http://insverpro.my.id/play.m3u8?id=733&key=vidio&type=hls&username=nurdin
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",Trans 7
-https://frosty-wood-0912.squdinc.workers.dev/https://insverpro.my.id/play.m3u8?id=734&key=vidio&type=hls
+http://insverpro.my.id/play.m3u8?id=734&key=vidio&type=hls&username=nurdin
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",Rans
-https://frosty-wood-0912.squdinc.workers.dev/https://insverpro.my.id/play.m3u8?id=8241&key=vidio&type=hls
+http://insverpro.my.id/play.m3u8?id=824&key=vidio&type=hls&username=nurdin
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",RTV
-https://frosty-wood-0912.squdinc.workers.dev/https://insverpro.my.id/play.m3u8?id=1561&key=vidio&type=hls
+http://insverpro.my.id/play.m3u8?id=1561&key=vidio&type=hls&username=nurdin
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",Mentari TV
-https://frosty-wood-0912.squdinc.workers.dev/https://insverpro.my.id/play.m3u8?id=8237&key=vidio&type=hls
+http://insverpro.my.id/play.m3u8?id=8237&key=vidio&type=hls&username=nurdin
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",Kompas TV
-https://frosty-wood-0912.squdinc.workers.dev/https://insverpro.my.id/play.m3u8?id=874&key=vidio&type=hls
+http://insverpro.my.id/play.m3u8?id=874&key=vidio&type=hls&username=nurdin
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",Metro TV
-https://frosty-wood-0912.squdinc.workers.dev/https://insverpro.my.id/play.m3u8?id=777&key=vidio&type=hls
+http://insverpro.my.id/play.m3u8?id=777&key=vidio&type=hls&username=nurdin
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",TV One
-https://frosty-wood-0912.squdinc.workers.dev/https://insverpro.my.id/play.m3u8?id=783&key=vidio&type=hls
+http://insverpro.my.id/play.m3u8?id=783&key=vidio&type=hls&username=nurdin
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",TVRI
-https://frosty-wood-0912.squdinc.workers.dev/https://insverpro.my.id/play.m3u8?id=6441&key=vidio&type=hls
+http://insverpro.my.id/play.m3u8?id=6441&key=vidio&type=hls&username=nurdin
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",JTV
-https://frosty-wood-0912.squdinc.workers.dev/https://insverpro.my.id/play.m3u8?id=9713&key=vidio&type=hls
+http://insverpro.my.id/play.m3u8?id=9713&key=vidio&type=hls&username=nurdin
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",JPM
-https://frosty-wood-0912.squdinc.workers.dev/https://insverpro.my.id/play.m3u8?id=9714&key=vidio&type=hls
+http://insverpro.my.id/play.m3u8?id=9714&key=vidio&type=hls&username=nurdin
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",DAII TV
-https://frosty-wood-0912.squdinc.workers.dev/https://insverpro.my.id/play.m3u8?id=6482&key=vidio&type=hls
+http://insverpro.my.id/play.m3u8?id=6482&key=vidio&type=hls&username=nurdin
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",Berita Satu
-https://frosty-wood-0912.squdinc.workers.dev/https://insverpro.my.id/play.m3u8?id=6165&key=vidio&type=hls
+http://insverpro.my.id/play.m3u8?id=6165&key=vidio&type=hls&username=nurdin
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",Nusantara TV
-#https://frosty-wood-0912.squdinc.workers.dev/https://insverpro.my.id/play.m3u8?id=7432&key=vidio&type=hls
+http://insverpro.my.id/play.m3u8?id=7432&key=vidio&type=hls&username=nurdin
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",iRadio
-https://frosty-wood-0912.squdinc.workers.dev/https://insverpro.my.id/play.m3u8?id=7057&key=vidio&type=hls
+http://insverpro.my.id/play.m3u8?id=7057&key=vidio&type=hls&username=nurdin
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL", RCTI

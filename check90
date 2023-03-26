@@ -2,32 +2,10 @@
 #EXTM3U x-tvg-url="https://macan.tv/xmltv.php?username=epg&password=epg" url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U x-tvg-url="https://stvlgo2.000webhostapp.com/coba/epg.xml"
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Request", MOTOGP TRANS 7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1876721856_b744100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Request", MOTOGP SPOTV 2
+https://beetv.my.id/x/usee-spotv2-masihsama.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Request", INDOSIAR_LIGA.1
-http://xtv.ooo:8080/Mohammad/Mohammad123/228289
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Request", Champ 1
-http://xtv.ooo:8080/live/Mohammad/Mohammad123/228341.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Request", Champ 2
-http://xtv.ooo:8080/live/Mohammad/Mohammad123/228244.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Request",SCTV
-http://mpwtv.my.id/vidioye/204-sctv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Request",INDOSIAR
-http://mpwtv.my.id/vidioye/205-indosiar.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Request", SPOTV
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1648904148~exp=9007200903645139~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=1ccedcc00d5f2d77381197c40ea187811a93374e73937f617f22ed4050aa5e58
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Request", Asia Food Network
-http://iptvid.my.id/hmm/afc.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Request", History
-http://iptvid.my.id/hmm/history.m3u8?by=iptv_id
 
 
 

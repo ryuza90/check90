@@ -301,6 +301,24 @@ https://kusnadipepenk.github.io/campeign/metro.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",iNews
 https://kusnadipepenk.github.io/campeign/inews.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",HBO
+https://kusnadipepenk.github.io/campeign/hbo.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",HBO Family
+https://kusnadipepenk.github.io/campeign/hbofam.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",HBO Hits
+https://kusnadipepenk.github.io/campeign/hbihit.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",HBO Signature
+https://kusnadipepenk.github.io/campeign/hbosi.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Cinemax
+https://kusnadipepenk.github.io/campeign/hbocinema.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Warner TV
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/wrnr.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Aniplus
 https://kusnadipepenk.github.io/campeign/anplus.m3u8
 
@@ -356,23 +374,7 @@ https://kusnadipepenk.github.io/campeign/histo.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Nat Wild
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/wild.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",HBO
-https://kusnadipepenk.github.io/campeign/hbo.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",HBO Family
-https://kusnadipepenk.github.io/campeign/hbofam.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",HBO Hits
-https://kusnadipepenk.github.io/campeign/hbihit.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",HBO Signature
-https://kusnadipepenk.github.io/campeign/hbosi.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Cinemax
-https://kusnadipepenk.github.io/campeign/hbocinema.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Warner TV
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/wrnr.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Paramount
@@ -404,8 +406,11 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/bs2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Bein 3
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/bs3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Disney
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Disney 
 https://kusnadipepenk.github.io/ntn/disn.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Disney 2
+http://208.86.19.13:81/14.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Box TVt",Axn
 https://kusnadipepenk.github.io/ntn/axn.m3u8

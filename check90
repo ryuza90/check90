@@ -109,7 +109,7 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 ############################################## BGL #########################################
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",Indosiar
-https://m3u-editor.com/live/serve/e46bc590-6c47-11ed-b6c8-d1f1f0221890/706976533.m3u8
+https://sub.home-tv.my.id/first/indosiar.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",Indosiar 2
 http://insverpro.my.id/play.m3u8?id=205&key=vidio&type=hls&username=nurdin
@@ -118,7 +118,7 @@ http://insverpro.my.id/play.m3u8?id=205&key=vidio&type=hls&username=nurdin
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",SCTV 
-https://epg.pw/stream/e80b8be6de77b17eed02ddd41f5cb4f9aa5be2e631f17f7e7ba0cb2fb92edaec.m3u8
+https://sub.home-tv.my.id/first/sctv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="BGL",SCTV 1
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/204.m3u8

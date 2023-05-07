@@ -1884,23 +1884,3 @@ https://obs.line-scdn.net/0hFBCtdz7kGW1-DTPeYwlmOk1bGgJNYQpuGjtIcy5jT1RbPFkyRG1U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="Mr. Bean Serial", EP14 - Tata Rambut Karya Mr. Bean dari London 
 https://obs.line-scdn.net/0h2gObp0LwbUhyG0f6hhQSH05NbidBd35LFi08ViJ1MHldKSocTX8iKVcTYSxbLyoYC3xyLlQYMn1W/720p.m3u8
 
-##################################################### FASHION #####################################################
-
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="FASHION",fashion tv Midnight 1
-https://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="FASHION",fashion tv Midnight 2
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="FASHION",fashion tv fitnes
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="FASHION",fashion tv Midnight SD
-http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="FASHION",fashion tv Paris
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="FASHION",The Beach Channel
-https://live.lwcdn.com/live/amlst:ALH8QFrg_all/playlist.m3u8

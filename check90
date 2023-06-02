@@ -14,8 +14,8 @@ http://tvnid.x10.mx/1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Request",INDOSIAR 3
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Request",SCTV
-http://mpwtv.my.id/vidioye/204-sctv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Request",SCTV 1
+http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Request",SCTV 2
 https://kusnadipepenk.github.io/campeign/sctv.m3u8
@@ -23,29 +23,6 @@ https://kusnadipepenk.github.io/campeign/sctv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Request",SCTV 3
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Request",TRANS TV
-http://tvnid.x10.mx/1/master-7.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Request",TRANS 7
-http://tvnid.x10.mx/1/master-8.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Request",MOJI
-http://tvnid.x10.mx/1/master-2.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Request",MENTARI TV
-http://tvnid.x10.mx/1/master-3.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Request",RTV
-http://tvnid.x10.mx/1/master-12.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Request",ANTV
-http://tvnid.x10.mx/1/master-9.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Request",METRO TV
-http://tvnid.x10.mx/1/master-10.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Request",NAGASWARA
-http://tvnid.x10.mx/1/master-4.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Request",KOMPAS TV
-http://tvnid.x10.mx/1/master-11.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Request",TV ONE 
-http://tvnid.x10.mx/1/master-5.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Request",BTV
-http://tvnid.x10.mx/1/master-13.m3u8
 
 
 ############################################### IDN ###################################################

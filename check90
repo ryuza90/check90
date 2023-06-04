@@ -23,6 +23,95 @@ https://kusnadipepenk.github.io/campeign/sctv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Request",SCTV 3
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 
+############################################## BEE ###################################################
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="BEE",Sctv
+http://103.152.118.53:80/streams/esceteve/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="BEE",Indosiar
+http://103.152.118.53:80/streams/indosiar/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="BEE",Trans Tv
+http://103.152.118.53:80/streams/transteve/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="BEE",Trans 7
+http://103.152.118.53:80/streams/transpitu/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="BEE",Moji
+http://103.152.118.53:80/streams/moji/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="BEE",Mentari Tv
+http://beetv.my.id/x/oxygen-mentaritv-gojokkk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="BEE",Antv
+http://103.152.118.53:80/streams/anteve/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="BEE",Tv One
+http://103.152.118.53:80/streams/yt/by-name/tvonenews/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="BEE",VTV (Viva Tv)
+http://beetv.my.id/x/oxygen-vtv-gojokkk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="BEE",CNN
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="BEE",CNBC
+http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="BEE",Metro Tv
+http://103.152.118.53:80/streams/metroteve/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="BEE",Magna 
+http://edge.medcom.id/live-edge/smil:magna.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="BEE",BN
+http://103.152.118.53:80/streams/yt/by-id/0Kln8aj0v3E/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="BEE",Kompas Tv
+http://103.152.118.53:80/streams/kompasteve/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="BEE",JTV
+http://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="BEE",Batu Tv
+http://117.103.69.219:8080/live/streaming/index.m3u8
+
+############################################### INDO ###################################################
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="INDONESIA",TRANS TV 
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dPFnbkz/trans7-home-tv.png" group-title="INDONESIA",TRANS 7 
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFC9nw1/sctv-home-tv.png" group-title="INDONESIA",SCTV 
+https://beetv.my.id/x/oxygen-sctv-gojokkk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mJjQDnj/nettv-home-tv.png" group-title="INDONESIA",NET TV 
+https://beetv.my.id/x/oxygen-nettv-hd-gojokkk.m3u8
+
+#EXTINF:-1 tv-name="ANTV" tvg-logo="https://i.ibb.co/478Nqtp/antv-home-tv.png" group-title="INDONESIA",ANTV
+https://beetv.my.id/x/oxygen-antv-gojokkk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qmh4NMJ/rtv-home-tv.png" group-title="INDONESIA",RAJAWALI TV 
+http://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
+
+#EXTINF:-1 group-title="INDONESIA"  tvg-logo="https://i.ibb.co/KWttnf1/inews-home-tv.png",INEWS 2
+https://beetv.my.id/x/oxygen-inews-gojokkk.m3u8
+
+#EXTINF:-1 group-title="INDONESIA"  tvg-logo = "https://i.ibb.co/XsLqk8f/SGN-09-03-2022-1662138932019.png",MOJI 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8?X-CDRS-APP=fmx%2F3.43.2%2F30043000%2Fc07b0395-4c61-3c92-8d45-3efba47ad524&X-CDRS-DEVICE-ID=35982807-6f58-4b5c-89a9-edb57f283313&X-CDRS-CONTENT=LIVE%2F11285841%2F0026_221130_0600
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZmHZbbT/YETRY.png" group-title="INDONESIA",TVONE 
+https://beetv.my.id/x/oxygen-tvone-gojokkk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tt4V9Cw/hcggh.png" group-title="INDONESIA",METRO TV 
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfPLggK/hfd.png" group-title="INDONESIA",KOMPAS TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+
 
 
 ############################################### IDN ###################################################

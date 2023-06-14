@@ -23,6 +23,9 @@ https://kusnadipepenk.github.io/campeign/sctv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Request",SCTV 3
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="Request",SCTV 4
+https://etslive-2-vidio-com.akamaized.net/exp=1686739728~acl=/hls-b/ingest_204_*/*~hmac=b54feec8491c122b707a934c42946cbbce6fca5e0df297a4879d1231587882ef/hls-b/ingest_204_720p/index.m3u8
+
 ############################################## BEE ###################################################
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="BEE",Sctv
